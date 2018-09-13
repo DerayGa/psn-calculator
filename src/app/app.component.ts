@@ -37,8 +37,10 @@ export class AppComponent {
     } else if (this.totalPrice === this.targetPrice) {
       this.message = `你已經挑好 ${this.targetPrice}元了`;
     } else {
-      const games = this.games.filter((game) => (
+      const games = this.sortedData.filter((game) => (
         this.trashCart.find(target => target.name === game.name) === undefined
+      )).filter((game) => (
+        this.shoppingCart.find(target => target.name === game.name) === undefined
       ));
 
       this.combination = this.getSummingItems(games, this.targetPrice - this.totalPrice);
