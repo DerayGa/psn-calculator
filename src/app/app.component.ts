@@ -21,6 +21,7 @@ export class AppComponent {
   combination: Array<any> = [];
   targetPrice             = 2200;
   totalPrice              = 0;
+  limit                   = 20;
   message                 = '';
 
   constructor(
@@ -57,7 +58,7 @@ export class AppComponent {
       if (this.combination === undefined || this.combination.length === 0) {
         this.message = '抱歉捏，湊不到整數。';
       } else {
-        this.message = this.combination.filter((combination, index) => index < 20)
+        this.message = this.combination.filter((combination, index) => index < this.limit)
           .map((combination, index) => {
           const set: Array<string> = combination.map((price) => {
             const priceMatchGames = games.filter((game) => (game.price === price));
@@ -80,13 +81,37 @@ export class AppComponent {
   }
 
   getSummingItems(priceList, targetPrice) {
-    return priceList.reduce((h, price) => Object.keys(h)
-      .reduceRight((m, k) => +k + price <= targetPrice
-        ? (m[+k + price] = m[+k + price]
-          ? m[+k + price].concat(m[k].map(sa => sa.concat(price)))
-          : m[k].map(sa => sa.concat(price)), m)
-        : m, h
-      ), { 0: [[]] })[targetPrice];
+    const summingItems = [];
+
+    for (let size = 1 ; size <= 4 ; size++) {
+      let subSets = [];
+      this.getCombinations(priceList, size, 0, [], subSets);
+      if (subSets.length) {
+        subSets.filter((subset) => (
+          subset.reduce((a, b) => a + b, 0) === targetPrice
+        )).forEach((subset) => {
+          summingItems.push(subset);
+        });
+      }
+
+      if (summingItems.length >= this.limit) {
+        break;
+      }
+    }
+
+    return summingItems;
+  }
+
+  getCombinations(priceList, setSize, start, initialStuff, output) {
+      if (initialStuff.length >= setSize) {
+          output.push(initialStuff);
+      } else {
+          var i;
+
+          for (i = start; i < priceList.length; ++i) {
+            this.getCombinations(priceList, setSize, i + 1, initialStuff.concat(priceList[i]), output);
+          }
+      }
   }
 
   getPrice() {
@@ -121,9 +146,10 @@ export class AppComponent {
     }
 
     let count = `一共有${this.combination.length}種組合`;
-    if (this.combination.length > 20) {
-      count += `，只顯示其中的20種。`;
+    if (this.combination.length > this.limit) {
+      count = `組合太多了，只顯示其中的${this.limit}種。`;
     }
+
     return count;
   }
 
