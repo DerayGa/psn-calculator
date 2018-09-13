@@ -43,14 +43,33 @@ export class AppComponent {
         this.shoppingCart.find(target => target.name === game.name) === undefined
       ));
 
-      this.combination = this.getSummingItems(games, this.targetPrice - this.totalPrice);
+      const targetPrice = this.targetPrice - this.totalPrice;
+      const priceList = [];
+      games.forEach((game) => {
+        if (game.price <= targetPrice && priceList.indexOf(game.price) < 0) {
+          priceList.push(game.price);
+        }
+      });
+      priceList.sort((a, b) => (a - b));
+
+      this.combination = this.getSummingItems(priceList, targetPrice);
 
       if (this.combination === undefined || this.combination.length === 0) {
         this.message = '抱歉捏，湊不到整數。';
       } else {
         this.message = this.combination.filter((combination, index) => index < 20)
           .map((combination, index) => {
-          const set: Array<string> = combination.map((game) => `${game.name} : ${game.price}`);
+          const set: Array<string> = combination.map((price) => {
+            const priceMatchGames = games.filter((game) => (game.price === price));
+            if (priceMatchGames.length === 1) {
+              const game = priceMatchGames[0];
+              return `${game.price} : ${game.name}`;
+            }
+
+            return `${priceMatchGames[0].price} : ` + priceMatchGames.map((game) => (
+              game.name
+            )).join(` /\r\n      `);
+          });
           set.unshift(`第${index + 1}種組合`);
           set.push('');
 
@@ -60,14 +79,14 @@ export class AppComponent {
     }
   }
 
-  getSummingItems(games, t) {
-    return games.reduce((h, game: Game) => Object.keys(h)
-      .reduceRight((m, k) => +k + game.price <= t
-        ? (m[+k + game.price] = m[+k + game.price]
-          ? m[+k + game.price].concat(m[k].map(sa => sa.concat(game)))
-          : m[k].map(sa => sa.concat(game)), m)
+  getSummingItems(priceList, targetPrice) {
+    return priceList.reduce((h, price) => Object.keys(h)
+      .reduceRight((m, k) => +k + price <= targetPrice
+        ? (m[+k + price] = m[+k + price]
+          ? m[+k + price].concat(m[k].map(sa => sa.concat(price)))
+          : m[k].map(sa => sa.concat(price)), m)
         : m, h
-      ), { 0: [[]] })[t];
+      ), { 0: [[]] })[targetPrice];
   }
 
   getPrice() {
