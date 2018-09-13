@@ -1,0 +1,59 @@
+<header>
+    <img src="https://store.playstation.com/img/store-logo.svg"> <h1>PSN 購物車計算機</h1>
+</header>
+
+<mat-form-field class="half-width">
+    <input matInput type="number" placeholder="目標金額（元）" [(ngModel)]="targetPrice">
+</mat-form-field>
+
+<button
+    mat-raised-button
+    (click)="calculator()"
+    color="primary">我要湊整數</button>
+<button
+    mat-raised-button
+    (click)="reset()"
+    >清除重來</button>
+
+<mat-card *ngIf="shoppingCart.length">
+    <mat-card-header>
+        <mat-card-title>{{getPrice()}}</mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+        <pre>{{getCart()}}</pre>
+    </mat-card-content>
+</mat-card>
+
+<mat-card *ngIf="message">
+    <mat-card-header>
+        <mat-card-title>{{getCount()}}</mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+        <pre>{{getResult()}}</pre>
+    </mat-card-content>
+</mat-card>
+
+<table matSort (matSortChange)="sortData($event)">
+    <tr>
+        <th mat-sort-header="name">遊戲名稱</th>
+        <th mat-sort-header="price">金額（元）</th>
+        <th></th>
+    </tr>
+
+    <tr *ngFor="let game of sortedData">
+        <td>{{game.name}}</td>
+        <td>{{game.price}}</td>
+        <td>
+            <mat-radio-group>
+                <mat-radio-button
+                    (change)="include(game.name)"
+                    color="primary"
+                    value="include"><mat-icon>favorite</mat-icon>加到購物車</mat-radio-button>
+                <mat-radio-button
+                    (change)="exclude(game.name)"
+                    color="warn"
+                    value="exclude"><mat-icon>thumb_down</mat-icon>不要這款遊戲</mat-radio-button>
+            </mat-radio-group>
+        </td>
+    </tr>
+</table>

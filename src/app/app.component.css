@@ -1,0 +1,20 @@
+header {
+    text-align: center;
+}
+header img {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+.mat-sort-header-container {
+    align-items: center;
+}
+.half-width{
+    width: 50%;
+}
+.mat-radio-button {
+    margin-right: 15px;
+}
+.mat-raised-button {
+    margin-right: 5px;
+}
