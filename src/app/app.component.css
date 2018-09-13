@@ -1,9 +1,13 @@
 header {
     text-align: center;
+    background-color: #444;
+    color: white;
+    height: 50px;
+    margin-bottom: 10px;
 }
 header img {
     position: absolute;
-    top: 5px;
+    top: 20px;
     left: 5px;
 }
 .mat-sort-header-container {
@@ -16,5 +20,5 @@ header img {
     margin-right: 15px;
 }
 .mat-raised-button {
-    margin-right: 5px;
+    margin-left: 10px;
 }
