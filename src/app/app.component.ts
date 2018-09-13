@@ -46,7 +46,8 @@ export class AppComponent {
       if (this.combination === undefined || this.combination.length === 0) {
         this.message = '抱歉捏，湊不到整數。';
       } else {
-        this.message = this.combination.map((combination, index) => {
+        this.message = this.combination.filter((combination, index) => index < 20)
+          .map((combination, index) => {
           const set: Array<string> = combination.map((game) => `${game.name} : ${game.price}`);
           set.unshift(`第${index + 1}種組合`);
           set.push('');
