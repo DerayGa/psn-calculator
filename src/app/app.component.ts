@@ -211,9 +211,7 @@ export class AppComponent {
 
   getGameList() {
     if (this.jsonList.length === 0) {
-      this.sortedData = this.games.filter((game) => (
-        this.toppings.value.indexOf(game.platform) >= 0
-      )).slice();
+      this.platformSelectionChange();
       return;
     }
     const filename = this.jsonList.shift();
