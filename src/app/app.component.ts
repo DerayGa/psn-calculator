@@ -9,6 +9,7 @@ export interface Game {
   normal_price: number;
   plus_price: number;
   platform: string;
+  type: string;
 }
 
 @Component({
@@ -35,11 +36,15 @@ export class AppComponent {
     'game_300.json',
     'game_350.json',
     'game_400.json',
+    'dlc_50.json',
+    'dlc_100.json',
   ];
   platformList: Array<string> = [
     'PS4',
-    'PS Vita',
+    '遊戲 GAME',
+    '追加內容 DLC',
     'PS3',
+    'PS Vita',
   ];
   targetPrice                 = 2200;
   totalPrice                  = 0;
@@ -50,7 +55,7 @@ export class AppComponent {
   constructor(
     private http: HttpClient
   ) {
-    this.toppings.setValue(['PS4']);
+    this.toppings.setValue(['PS4', '遊戲 GAME']);
     this.isPlus = localStorage.getItem('is-plus') !== 'false';
 
     this.getGameList();
@@ -176,8 +181,14 @@ export class AppComponent {
   }
 
   platformSelectionChange() {
+    const platforms = this.toppings.value.filter((platform) => platform === 'PS4' || platform === 'PS3' || platform === 'PS Vita');
+    const includeGame = this.toppings.value.find((type) => type === '遊戲 GAME') !== undefined;
+    const includeDlc = this.toppings.value.find((type) => type === '追加內容 DLC') !== undefined;
+
     this.sortedData = this.games.filter((game) => (
-      this.toppings.value.indexOf(game.platform) >= 0
+      (game.type === 'game' && includeGame) || (game.type === 'dlc' && includeDlc)
+    )).filter((game) => (
+      platforms.indexOf(game.platform) >= 0
     )).slice();
   }
 
@@ -185,10 +196,9 @@ export class AppComponent {
     this.isPlus = event.checked;
     localStorage.setItem('is-plus', String(this.isPlus));
 
-    this.sortedData = this.games.map((game) => {
+    this.sortedData.forEach((game) => {
       game.price = this.isPlus ? game.plus_price : game.normal_price;
-      return game;
-    }).slice();
+    });
   }
 
   getResult() {
@@ -201,16 +211,20 @@ export class AppComponent {
 
   getGameList() {
     if (this.jsonList.length === 0) {
-      this.sortedData = this.games.slice();
+      this.sortedData = this.games.filter((game) => (
+        this.toppings.value.indexOf(game.platform) >= 0
+      )).slice();
       return;
     }
     const filename = this.jsonList.shift();
     this.http.get(`./assets/${filename}`).subscribe((result: Array<any>) => {
+      const typeGame = filename.indexOf('game') === 0;
+      const typeDlc  = filename.indexOf('dlc') === 0;
       result['included'].forEach((item) => {
-        if (item['type'] === 'game') {
-          const attributes = item['attributes'];
-          const skus       = attributes['skus'][0];
-          const name       = `${attributes['name']}  (${skus['name']})`;
+        const attributes = item['attributes'];
+        if ((typeGame && item['type'] === 'game') || (typeDlc && item['type'] === 'game-related') && attributes['skus']) {
+          const skus = attributes['skus'].pop();
+          const name = `${attributes['name']}  (${skus['name']})`;
 
           if (this.gameName.indexOf(name) < 0) {
             this.gameName.push(name);
@@ -219,13 +233,16 @@ export class AppComponent {
             const plus_price   = skus['prices']['plus-user']['actual-price']['value'] / 100;
             const price        = this.isPlus ? plus_price : normal_price;
 
-            this.games.push({
-              name:         name,
-              price:        price,
-              normal_price: normal_price,
-              plus_price:   plus_price,
-              platform:     attributes['platforms'][0]
-            });
+            if (price > 0) {
+              this.games.push({
+                name:         name,
+                price:        price,
+                normal_price: normal_price,
+                plus_price:   plus_price,
+                platform:     attributes['platforms'].pop(),
+                type:         typeDlc ? 'dlc' : 'game',
+              });
+            }
           }
         }
       });
