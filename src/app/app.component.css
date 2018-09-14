@@ -13,12 +13,13 @@ header img {
 .mat-sort-header-container {
     align-items: center;
 }
-.half-width{
-    width: 50%;
-}
+
 .mat-radio-button {
     margin-right: 15px;
 }
+
+mat-form-field,
+mat-slide-toggle,
 .mat-raised-button {
     margin-left: 10px;
 }

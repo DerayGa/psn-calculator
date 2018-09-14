@@ -2,7 +2,7 @@
     <img src="https://store.playstation.com/img/store-logo.svg"> <h1>PSN 購物車計算機</h1>
 </header>
 
-<mat-form-field class="half-width">
+<mat-form-field>
     <input matInput type="number" placeholder="目標金額（元）" [(ngModel)]="targetPrice">
 </mat-form-field>
 
@@ -14,6 +14,22 @@
     mat-raised-button
     (click)="reset()"
     >清除重來</button>
+
+<mat-slide-toggle matTooltip="我有Plus會員"
+    (change)="onIsPlusChange($event)"
+    [checked]="isPlus">
+    Plus會員特價
+</mat-slide-toggle>
+
+<mat-form-field>
+    <mat-select
+        placeholder="主機"
+        (selectionChange)="platformSelectionChange()"
+        [formControl]="toppings"
+        multiple>
+        <mat-option *ngFor="let platform of platformList" [value]="platform">{{platform}}</mat-option>
+    </mat-select>
+</mat-form-field>
 
 <mat-card *ngIf="shoppingCart.length">
     <mat-card-header>

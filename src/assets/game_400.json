@@ -1,0 +1,3937 @@
+{
+  "data": {
+    "attributes": {
+      "banners": [
+        {
+          "asset-dimensions": "954x302",
+          "assets": [
+            {
+              "asset-id": 14,
+              "report-id": "180512168",
+              "url": "https://homer.dl.playstation.net/pr/bam-art/723/349/52728d71-66a0-4801-b22a-ddbd06fcfba3.png"
+            }
+          ],
+          "location-widget-id": 5774548
+        },
+        {
+          "asset-dimensions": "954x90",
+          "assets": [
+            {
+              "asset-id": 49,
+              "report-id": "3453706074",
+              "url": "https://homer.dl.playstation.net/pr/bam-art/724/178/8fa8dad3-f578-4619-9fc2-572511ffe099.png"
+            }
+          ],
+          "location-widget-id": 5774549,
+          "target-container-id": "https://asia.playstation.com/cht-tw/latest-news",
+          "target-type": "URL"
+        },
+        {
+          "asset-dimensions": "224x224",
+          "assets": [
+            {
+              "asset-id": 50,
+              "report-id": "531035257",
+              "url": "https://homer.dl.playstation.net/pr/bam-art/723/312/9b5ddbdc-8b41-4fef-b6d2-bc37e2f2dec1.png"
+            }
+          ],
+          "location-widget-id": 5774551,
+          "target-container-id": "STORE-MSF86012-TGS_GAME_ASIA",
+          "target-type": "CATEGORY"
+        },
+        {
+          "asset-dimensions": "224x224",
+          "assets": [
+            {
+              "asset-id": 50,
+              "report-id": "1848571690",
+              "url": "https://homer.dl.playstation.net/pr/bam-art/723/288/25f93535-c681-45c7-9c84-5b6e65be0b44.png"
+            }
+          ],
+          "location-widget-id": 5774550
+        },
+        {
+          "asset-dimensions": "224x224",
+          "assets": [
+            {
+              "asset-id": 50,
+              "report-id": "399254664",
+              "url": "https://homer.dl.playstation.net/pr/bam-art/723/313/07e4d5de-4a62-4c19-bc4d-0893036767fd.png"
+            }
+          ],
+          "location-widget-id": 5774552,
+          "target-container-id": "STORE-MSF86012-TGS_ADDON_ASIA",
+          "target-type": "CATEGORY"
+        }
+      ],
+      "facets": [],
+      "name": "TGS 優惠",
+      "nsx-ps-plus-upsell": null,
+      "promo-background-url": "https://homer.dl.playstation.net/pr/bam-art/723/310/f14b6fc2-8007-4efc-b074-0b583783a04a.jpg",
+      "promo-backgrounds": [
+        {
+          "template-extra-id": 1936,
+          "url": "https://homer.dl.playstation.net/pr/bam-art/723/310/f14b6fc2-8007-4efc-b074-0b583783a04a.jpg"
+        }
+      ],
+      "sub-scenes": {},
+      "template-id": 4075,
+      "thumbnail-url-base": "https://store.playstation.com/store/api/chihiro/00_09_000/container/TW/ch/19/STORE-MSF86012-TGS_MAIN_ASIA/1536815589000/image",
+      "total-results": 361
+    },
+    "id": "STORE-MSF86012-TGS_MAIN_ASIA",
+    "relationships": {
+      "children": {
+        "data": [
+          {
+            "id": "EP4541-CUSA07966_00-ASIAREALFARMEU00",
+            "type": "game"
+          },
+          {
+            "id": "EP4541-CUSA07966_00-ASIAREALFARMEU01",
+            "type": "game"
+          },
+          {
+            "id": "EP4541-CUSA04667_00-ASIA000000000000",
+            "type": "game"
+          },
+          {
+            "id": "EP4541-CUSA04667_00-ASIA000000000006",
+            "type": "game"
+          },
+          {
+            "id": "EP2615-CUSA08462_00-ASIA000000000000",
+            "type": "game"
+          },
+          {
+            "id": "EP2615-CUSA08462_00-ASIA000000000001",
+            "type": "game"
+          },
+          {
+            "id": "HP1060-CUSA03825_00-XGAMES01XG020100",
+            "type": "game"
+          },
+          {
+            "id": "HP1060-CUSA05138_00-XGAMES01XG030100",
+            "type": "game"
+          },
+          {
+            "id": "HP1060-CUSA02416_00-XGAMES1100010100",
+            "type": "game"
+          },
+          {
+            "id": "HP1060-CUSA06817_00-XGAMES01XG040100",
+            "type": "game"
+          },
+          {
+            "id": "UP1001-CUSA04552_00-0000000000000009",
+            "type": "game-related"
+          }
+        ]
+      },
+      "legacy-skus": {
+        "data": []
+      }
+    },
+    "type": "container"
+  },
+  "included": [
+    {
+      "attributes": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "NT$1,480",
+        "eligibilities": [],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 3,
+            "id": "EP4541-CUSA07966_00-REALFARMEU000000",
+            "license_type": 0,
+            "metadata": {
+              "subtitleLanguageCode": [
+                "de",
+                "no",
+                "fi",
+                "sv",
+                "ru",
+                "ko",
+                "ch",
+                "en",
+                "it",
+                "pt_BR",
+                "fr",
+                "zh",
+                "es",
+                "ja",
+                "pl",
+                "da",
+                "tr",
+                "nl"
+              ]
+            },
+            "name": "Real Farm",
+            "packageType": "PS4GD",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 1700855808
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": [
+              "ko",
+              "ch",
+              "ja",
+              "en",
+              "zh"
+            ],
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP4541-CUSA07966_00-ASIAREALFARMEU00-H001",
+        "is_original": false,
+        "name": "中日英韓文版",
+        "platforms": [
+          0,
+          10,
+          13
+        ],
+        "price": 148000,
+        "rewards": [
+          {
+            "bonus_discount": 50,
+            "bonus_display_price": "NT$740",
+            "bonus_entitlement_id": "IP9103-NPIA90007_00-PLUS00",
+            "bonus_price": 74000,
+            "campaigns": [
+              {
+                "end_date": "2018-09-24T15:59:00Z",
+                "id": "CAMP-SCEH-00152065",
+                "start_date": "2018-09-11T03:00:00Z"
+              }
+            ],
+            "discount": 40,
+            "display_price": "NT$888",
+            "end_date": "2018-09-24T15:59:00Z",
+            "id": "CAMP-RWD-SCEH-02748097",
+            "isPlus": false,
+            "price": 88800,
+            "reward_source_type_id": 2,
+            "reward_type": 2,
+            "start_date": "2018-09-11T03:00:00Z"
+          }
+        ],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "id": "EP4541-CUSA07966_00-ASIAREALFARMEU00-H001",
+      "relationships": {
+        "children": {
+          "data": []
+        },
+        "legacy-skus": {
+          "data": []
+        }
+      },
+      "type": "legacy-sku"
+    },
+    {
+      "attributes": {
+        "badge-info": {
+          "non-plus-user": {
+            "discount-percentage": 40,
+            "is-plus": false,
+            "type": "save-percentage"
+          },
+          "plus-user": {
+            "discount-percentage": 50,
+            "is-plus": true,
+            "type": "save-percentage"
+          }
+        },
+        "cero-z-status": {
+          "is-allowed-in-cart": false,
+          "is-on": false
+        },
+        "content-rating": {
+          "content-descriptors": [],
+          "contentInteractiveElement": [],
+          "rating-system": "CGSRR",
+          "url": "https://cdn-a.sonyentertainmentnetwork.com/grc/images/ratings/hd/cgsrr/RatingAll.png"
+        },
+        "content-type": "1",
+        "default-sku-id": "EP4541-CUSA07966_00-ASIAREALFARMEU00-H001",
+        "dob-required": false,
+        "file-size": {
+          "unit": "GB",
+          "value": 1.7
+        },
+        "game-content-type": "PSN 遊戲",
+        "genres": [
+          "模擬遊戲"
+        ],
+        "is-igc-upsell": false,
+        "is-multiplayer-upsell": false,
+        "kamaji-relationship": "extras",
+        "legal-text": "所購買的內容或服務均不可退款或轉讓，亦不可用以贖回現金或記賬。",
+        "long-description": "<b><font color=\"orange\">支援語言包括英文、日文、繁體中文、簡體中文、韓文。</font></b><br><br><b><font color=\"orange\">※另有包含此單獨商品內容的套裝包。請注意切勿重複購買。</font></b><br><br>穿上靴子、啟動曳引機，在最令人身歷其境的農業模擬遊戲『Real Farm』中努力耕耘，邁向成功。在生涯模式中從農場工人一路成為頂尖農業鉅子，或在自由模式裡悉心扮演農場主人的角色。探索令人驚豔的開放世界，在60FPS的美麗畫面中體驗栩栩如生的美國鄉村風貌。<br><br>專注於種植作物、飼養家畜，或雙管齊下，為自己帶來源源不絕的鈔票與聲望。購買土地、管理員工，駕駛與維修最強大的農用載具。<br><br>在市集裡收割最高成交價，但也要留意眾多競爭者，因為他們的（和你的）行動都會即時影響市場經濟。<br><br>從商業挑戰到放牧天堂，『Real Farm』打造出現代農業的生活、收穫與自然美景。<br><br><b>Copyright：</b><br>© SOEDESCO 2017. Published by SOEDESCO, Koddeweg 13, 3194 DH, Hoogvliet. All rights reserved.<br><br>購買或使用本內容需遵守SEN使用條款及用戶合約。",
+        "macross-brain-context": "game",
+        "media-list": {
+          "preview": [],
+          "promo": {
+            "images": [],
+            "videos": []
+          },
+          "screenshots": [
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/EP4541/CUSA07966_00/FREE_CONTENTSsaoiBc1eLjOWabcjBOd/1.jpg"
+            },
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/EP4541/CUSA07966_00/FREE_CONTENTp6FuNY2gpFqtrXpYn3aQ/2.jpg"
+            },
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/EP4541/CUSA07966_00/FREE_CONTENTACZWK9KoZRbLPEvI2YE4/3.jpg"
+            }
+          ]
+        },
+        "name": "Real Farm",
+        "nsx-confirm-message": "",
+        "parent": null,
+        "platforms": [
+          "PS4"
+        ],
+        "plus-reward-description": null,
+        "primary-classification": "DOWNLOADABLE_GAME",
+        "provider-name": "SOEDESCO Publishing B.V.",
+        "ps-camera-compatibility": "incompatible",
+        "ps-move-compatibility": "incompatible",
+        "ps-vr-compatibility": "incompatible",
+        "release-date": "2018-01-11T01:00:00Z",
+        "secondary-classification": "GAME",
+        "skus": [
+          {
+            "entitlements": [
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              }
+            ],
+            "id": "EP4541-CUSA07966_00-ASIAREALFARMEU00-H001",
+            "is-preorder": false,
+            "multibuy": null,
+            "name": "中日英韓文版",
+            "playability-date": "",
+            "plus-reward-description": null,
+            "prices": {
+              "non-plus-user": {
+                "actual-price": {
+                  "display": "NT$888",
+                  "value": 88800
+                },
+                "availability": {
+                  "end-date": "2018-09-24T15:59:00Z",
+                  "start-date": "2018-09-11T03:00:00Z"
+                },
+                "discount-percentage": 40,
+                "is-plus": false,
+                "strikethrough-price": {
+                  "display": "NT$1,480",
+                  "value": 148000
+                },
+                "upsell-price": {
+                  "display": "NT$740",
+                  "value": 74000
+                }
+              },
+              "plus-user": {
+                "actual-price": {
+                  "display": "NT$740",
+                  "value": 74000
+                },
+                "availability": {
+                  "end-date": "2018-09-24T15:59:00Z",
+                  "start-date": "2018-09-11T03:00:00Z"
+                },
+                "discount-percentage": 50,
+                "is-plus": true,
+                "strikethrough-price": {
+                  "display": "NT$1,480",
+                  "value": 148000
+                },
+                "upsell-price": null
+              }
+            }
+          }
+        ],
+        "star-rating": {
+          "score": 2.6,
+          "total": 5
+        },
+        "subtitle-language-codes": [
+          {
+            "codes": [
+              "ko",
+              "ch",
+              "ja",
+              "en",
+              "zh"
+            ],
+            "name": "Real Farm"
+          }
+        ],
+        "thumbnail-url-base": "https://store.playstation.com/store/api/chihiro/00_09_000/container/TW/ch/19/EP4541-CUSA07966_00-ASIAREALFARMEU00/1536828454000/image",
+        "top-category": "downloadable_game",
+        "upsell-info": {
+          "discount-percentage-difference": 10,
+          "display-price": "NT$740",
+          "is-free": false,
+          "type": "save-extra-percentage"
+        },
+        "voice-language-codes": []
+      },
+      "id": "EP4541-CUSA07966_00-ASIAREALFARMEU00",
+      "relationships": {
+        "children": {
+          "data": [
+            {
+              "id": "EP4541-CUSA07966_00-ASIAFARMDLC102EU",
+              "type": "game-related"
+            },
+            {
+              "id": "EP4541-CUSA07966_00-ASIAFARMDLC101EU",
+              "type": "game-related"
+            },
+            {
+              "id": "EP4541-CUSA07966_00-ASIAAV0000000009",
+              "type": "game-related"
+            },
+            {
+              "id": "EP4541-CUSA07966_00-ASIAAV0000000010",
+              "type": "game-related"
+            },
+            {
+              "id": "EP4541-CUSA07966_00-ASIAAV0000000011",
+              "type": "game-related"
+            },
+            {
+              "id": "EP4541-CUSA07966_00-ASIAAV0000000012",
+              "type": "game-related"
+            },
+            {
+              "id": "EP4541-CUSA07966_00-ASIAAV0000000013",
+              "type": "game-related"
+            },
+            {
+              "id": "EP4541-CUSA07966_00-ASIAAV0000000014",
+              "type": "game-related"
+            },
+            {
+              "id": "EP4541-CUSA07966_00-ASIA000000000000",
+              "type": "game-related"
+            },
+            {
+              "id": "EP4541-CUSA07966_00-ASIA000000000001",
+              "type": "game-related"
+            },
+            {
+              "id": "EP4541-CUSA07966_00-ASIA000000000002",
+              "type": "game-related"
+            },
+            {
+              "id": "EP4541-CUSA07966_00-ASIAAV0000000001",
+              "type": "game-related"
+            },
+            {
+              "id": "EP4541-CUSA07966_00-ASIAAV0000000002",
+              "type": "game-related"
+            },
+            {
+              "id": "EP4541-CUSA07966_00-ASIAAV0000000003",
+              "type": "game-related"
+            },
+            {
+              "id": "EP4541-CUSA07966_00-ASIAAV0000000004",
+              "type": "game-related"
+            },
+            {
+              "id": "EP4541-CUSA07966_00-ASIAAV0000000005",
+              "type": "game-related"
+            },
+            {
+              "id": "EP4541-CUSA07966_00-ASIAAV0000000006",
+              "type": "game-related"
+            },
+            {
+              "id": "EP4541-CUSA07966_00-ASIAAV0000000007",
+              "type": "game-related"
+            },
+            {
+              "id": "EP4541-CUSA07966_00-ASIAAV0000000008",
+              "type": "game-related"
+            },
+            {
+              "id": "EP4541-CUSA07966_00-ASIA000000000003",
+              "type": "game-related"
+            },
+            {
+              "id": "EP4541-CUSA07966_00-ASIAREALFARMEU01",
+              "type": "game"
+            },
+            {
+              "id": "EP4541-CUSA09746_00-ASIAFARMEUOST000",
+              "type": "game-related"
+            }
+          ]
+        },
+        "legacy-skus": {
+          "data": [
+            {
+              "id": "EP4541-CUSA07966_00-ASIAREALFARMEU00-H001",
+              "type": "legacy-sku"
+            }
+          ]
+        }
+      },
+      "type": "game"
+    },
+    {
+      "attributes": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "NT$1,850",
+        "eligibilities": [
+          {
+            "description": null,
+            "drms": [],
+            "entitlement_type": null,
+            "id": "EP4541-CUSA07966_00-REALFARMEU000000",
+            "is_eligible": 1,
+            "name": "Real Farm",
+            "operand": "IS_ACTIVE",
+            "operator": "FALSE"
+          }
+        ],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP4541-CUSA07966_00-AV00000000000006",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "REAL FARM - AVATAR 6",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP4541-CUSA07966_00-AV00000000000005",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "REAL FARM - AVATAR 5",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP4541-CUSA07966_00-AV00000000000004",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "REAL FARM - AVATAR 4",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP4541-CUSA07966_00-AV00000000000003",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "REAL FARM - AVATAR 3",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP4541-CUSA07966_00-AV00000000000002",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "REAL FARM - AVATAR 2",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP4541-CUSA07966_00-AV00000000000001",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "REAL FARM - AVATAR 1",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP4541-CUSA07966_00-ETH0000000001421",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_THEME"
+              ]
+            },
+            "name": "Real Farm: Pickin a Chicken",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 16187392
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP4541-CUSA07966_00-ETH0000000001420",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_THEME"
+              ]
+            },
+            "name": "Real Farm: New Horizons Theme",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 13369344
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP4541-CUSA07966_00-ETH0000000001419",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_THEME"
+              ]
+            },
+            "name": "Real Farm: Man of the Land Theme",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 15007744
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP4541-CUSA07966_00-AV00000000000008",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "REAL FARM - AVATAR 8",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP4541-CUSA07966_00-AV00000000000007",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "REAL FARM - TRACTOR F4 AVATAR",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 3,
+            "id": "EP4541-CUSA09746_00-REALFARMEUOST000",
+            "license_type": 0,
+            "metadata": {
+              "subtitleLanguageCode": [
+                "en"
+              ]
+            },
+            "name": "Real Farm: Original Soundtrack",
+            "packageType": "PS4GD",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 80740352
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": [
+              "en"
+            ],
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 3,
+            "id": "EP4541-CUSA07966_00-REALFARMEU000000",
+            "license_type": 0,
+            "metadata": {
+              "subtitleLanguageCode": [
+                "de",
+                "no",
+                "fi",
+                "sv",
+                "ru",
+                "ko",
+                "ch",
+                "en",
+                "it",
+                "pt_BR",
+                "fr",
+                "zh",
+                "es",
+                "ja",
+                "pl",
+                "da",
+                "tr",
+                "nl"
+              ]
+            },
+            "name": "Real Farm",
+            "packageType": "PS4GD",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 1700855808
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": [
+              "ko",
+              "ch",
+              "ja",
+              "en",
+              "zh"
+            ],
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP4541-CUSA07966_00-ASIAREALFARMEU01-H001",
+        "is_original": false,
+        "name": "中日英韓文版",
+        "platforms": [
+          0,
+          10,
+          13
+        ],
+        "price": 185000,
+        "rewards": [
+          {
+            "bonus_discount": 50,
+            "bonus_display_price": "NT$925",
+            "bonus_entitlement_id": "IP9103-NPIA90007_00-PLUS00",
+            "bonus_price": 92500,
+            "campaigns": [
+              {
+                "end_date": "2018-09-24T15:59:00Z",
+                "id": "CAMP-SCEH-00152065",
+                "start_date": "2018-09-11T03:00:00Z"
+              }
+            ],
+            "discount": 40,
+            "display_price": "NT$1,110",
+            "end_date": "2018-09-24T15:59:00Z",
+            "id": "CAMP-RWD-SCEH-02748097",
+            "isPlus": false,
+            "price": 111000,
+            "reward_source_type_id": 2,
+            "reward_type": 2,
+            "start_date": "2018-09-11T03:00:00Z"
+          }
+        ],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "id": "EP4541-CUSA07966_00-ASIAREALFARMEU01-H001",
+      "relationships": {
+        "children": {
+          "data": []
+        },
+        "legacy-skus": {
+          "data": []
+        }
+      },
+      "type": "legacy-sku"
+    },
+    {
+      "attributes": {
+        "badge-info": {
+          "non-plus-user": {
+            "discount-percentage": 40,
+            "is-plus": false,
+            "type": "save-percentage"
+          },
+          "plus-user": {
+            "discount-percentage": 50,
+            "is-plus": true,
+            "type": "save-percentage"
+          }
+        },
+        "cero-z-status": {
+          "is-allowed-in-cart": false,
+          "is-on": false
+        },
+        "content-rating": {
+          "content-descriptors": [],
+          "contentInteractiveElement": [],
+          "rating-system": "CGSRR",
+          "url": "https://cdn-a.sonyentertainmentnetwork.com/grc/images/ratings/hd/cgsrr/RatingAll.png"
+        },
+        "content-type": "1",
+        "default-sku-id": "EP4541-CUSA07966_00-ASIAREALFARMEU01-H001",
+        "dob-required": false,
+        "file-size": {
+          "unit": "GB",
+          "value": 1.83
+        },
+        "game-content-type": "PSN 遊戲",
+        "genres": [
+          "模擬遊戲"
+        ],
+        "is-igc-upsell": false,
+        "is-multiplayer-upsell": false,
+        "kamaji-relationship": "extras",
+        "legal-text": "所購買的內容或服務均不可退款或轉讓，亦不可用以贖回現金或記賬。",
+        "long-description": "<b><font color=\"orange\">支援語言包括英文、日文、繁體中文、簡體中文、韓文。</font></b><br><br><b><font color=\"orange\">※在購買本套裝包前若已購買單獨商品，恕不會作出退款，敬請見諒。</font></b><br><br>包含『Real Farm』遊戲。<br>包含8款『Real Farm』個人造型。<br>包含2款『Real Farm』靜態主題。<br>包含『Real Farm』動態主題。<br>包含『Real Farm』遊戲原聲帶。<br><br>穿上靴子、啟動曳引機，在最令人身歷其境的農業模擬遊戲『Real Farm』中努力耕耘，邁向成功。在生涯模式中從農場工人一路成為頂尖農業鉅子，或在自由模式裡悉心扮演農場主人的角色。探索令人驚豔的開放世界，在60FPS的美麗畫面中體驗栩栩如生的美國鄉村風貌。<br><br>專注於種植作物、飼養家畜，或雙管齊下，為自己帶來源源不絕的鈔票與聲望。購買土地、管理員工，駕駛與維修最強大的農用載具。<br><br><b>Copyright：</b><br>© SOEDESCO 2017. Published by SOEDESCO, Koddeweg 13, 3194 DH, Hoogvliet. All rights reserved.<br><br>購買或使用本內容需遵守SEN使用條款及用戶合約。",
+        "macross-brain-context": "game",
+        "media-list": {
+          "preview": [],
+          "promo": {
+            "images": [],
+            "videos": []
+          },
+          "screenshots": [
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/EP4541/CUSA07966_00/FREE_CONTENTRF8HevEJeSUUQWcGLWZt/1.jpg"
+            },
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/EP4541/CUSA07966_00/FREE_CONTENTTj55ABjeR07qce8V5eMy/2.jpg"
+            },
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/EP4541/CUSA07966_00/FREE_CONTENTYbY01Y1VQn2yua0H7D7L/3.jpg"
+            }
+          ]
+        },
+        "name": "Real Farm - Deluxe Edition",
+        "nsx-confirm-message": "",
+        "parent": {
+          "id": "EP4541-CUSA07966_00-ASIAREALFARMEU00",
+          "name": "Real Farm",
+          "thumbnail": "http://apollo2.dl.playstation.net/cdn/EP4541/CUSA07966_00/fi20FFqLk9tBZZAsZ64JeujGXg01RoaAfwZ2ydPJHFPb7WmCQIGX7IF7lEcqrSwZ.png",
+          "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/TW/ch/19/EP4541-CUSA07966_00-ASIAREALFARMEU00/1536828454"
+        },
+        "platforms": [
+          "PS4"
+        ],
+        "plus-reward-description": null,
+        "primary-classification": "DOWNLOADABLE_GAME",
+        "provider-name": "SOEDESCO Publishing B.V.",
+        "ps-camera-compatibility": "incompatible",
+        "ps-move-compatibility": "incompatible",
+        "ps-vr-compatibility": "incompatible",
+        "release-date": "2018-01-11T01:00:00Z",
+        "secondary-classification": "GAME",
+        "skus": [
+          {
+            "entitlements": [
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              },
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              },
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              },
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              },
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              },
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              },
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              },
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              },
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              },
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              },
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              },
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              },
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              }
+            ],
+            "id": "EP4541-CUSA07966_00-ASIAREALFARMEU01-H001",
+            "is-preorder": false,
+            "multibuy": null,
+            "name": "中日英韓文版",
+            "playability-date": "",
+            "plus-reward-description": null,
+            "prices": {
+              "non-plus-user": {
+                "actual-price": {
+                  "display": "NT$1,110",
+                  "value": 111000
+                },
+                "availability": {
+                  "end-date": "2018-09-24T15:59:00Z",
+                  "start-date": "2018-09-11T03:00:00Z"
+                },
+                "discount-percentage": 40,
+                "is-plus": false,
+                "strikethrough-price": {
+                  "display": "NT$1,850",
+                  "value": 185000
+                },
+                "upsell-price": {
+                  "display": "NT$925",
+                  "value": 92500
+                }
+              },
+              "plus-user": {
+                "actual-price": {
+                  "display": "NT$925",
+                  "value": 92500
+                },
+                "availability": {
+                  "end-date": "2018-09-24T15:59:00Z",
+                  "start-date": "2018-09-11T03:00:00Z"
+                },
+                "discount-percentage": 50,
+                "is-plus": true,
+                "strikethrough-price": {
+                  "display": "NT$1,850",
+                  "value": 185000
+                },
+                "upsell-price": null
+              }
+            }
+          }
+        ],
+        "star-rating": {
+          "score": 3,
+          "total": 1
+        },
+        "subtitle-language-codes": [
+          {
+            "codes": [
+              "en"
+            ],
+            "name": "Real Farm: Original Soundtrack"
+          },
+          {
+            "codes": [
+              "ko",
+              "ch",
+              "ja",
+              "en",
+              "zh"
+            ],
+            "name": "Real Farm"
+          }
+        ],
+        "thumbnail-url-base": "https://store.playstation.com/store/api/chihiro/00_09_000/container/TW/ch/19/EP4541-CUSA07966_00-ASIAREALFARMEU01/1536828425000/image",
+        "top-category": "downloadable_game",
+        "upsell-info": {
+          "discount-percentage-difference": 10,
+          "display-price": "NT$925",
+          "is-free": false,
+          "type": "save-extra-percentage"
+        },
+        "voice-language-codes": []
+      },
+      "id": "EP4541-CUSA07966_00-ASIAREALFARMEU01",
+      "relationships": {
+        "children": {
+          "data": []
+        },
+        "legacy-skus": {
+          "data": [
+            {
+              "id": "EP4541-CUSA07966_00-ASIAREALFARMEU01-H001",
+              "type": "legacy-sku"
+            }
+          ]
+        }
+      },
+      "type": "game"
+    },
+    {
+      "attributes": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "NT$555",
+        "eligibilities": [],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 3,
+            "id": "EP4541-CUSA04667_00-REUSPS4000000000",
+            "license_type": 0,
+            "metadata": {
+              "subtitleLanguageCode": [
+                "de",
+                "ru",
+                "en",
+                "it",
+                "pt_BR",
+                "fr",
+                "pl",
+                "zh",
+                "es",
+                "nl"
+              ]
+            },
+            "name": "Reus",
+            "packageType": "PS4GD",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 1174798336
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": [
+              "en",
+              "zh"
+            ],
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP4541-CUSA04667_00-ASIA000000000000-H001",
+        "is_original": false,
+        "name": "中英文版",
+        "platforms": [
+          0,
+          10,
+          13
+        ],
+        "price": 55500,
+        "rewards": [
+          {
+            "bonus_discount": 50,
+            "bonus_display_price": "NT$277",
+            "bonus_entitlement_id": "IP9103-NPIA90007_00-PLUS00",
+            "bonus_price": 27700,
+            "campaigns": [
+              {
+                "end_date": "2018-09-24T15:59:00Z",
+                "id": "CAMP-SCEH-00152065",
+                "start_date": "2018-09-11T03:00:00Z"
+              }
+            ],
+            "discount": 40,
+            "display_price": "NT$333",
+            "end_date": "2018-09-24T15:59:00Z",
+            "id": "CAMP-RWD-SCEH-02748097",
+            "isPlus": false,
+            "price": 33300,
+            "reward_source_type_id": 2,
+            "reward_type": 2,
+            "start_date": "2018-09-11T03:00:00Z"
+          }
+        ],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "id": "EP4541-CUSA04667_00-ASIA000000000000-H001",
+      "relationships": {
+        "children": {
+          "data": []
+        },
+        "legacy-skus": {
+          "data": []
+        }
+      },
+      "type": "legacy-sku"
+    },
+    {
+      "attributes": {
+        "badge-info": {
+          "non-plus-user": {
+            "discount-percentage": 40,
+            "is-plus": false,
+            "type": "save-percentage"
+          },
+          "plus-user": {
+            "discount-percentage": 50,
+            "is-plus": true,
+            "type": "save-percentage"
+          }
+        },
+        "cero-z-status": {
+          "is-allowed-in-cart": false,
+          "is-on": false
+        },
+        "content-rating": {
+          "content-descriptors": [
+            {
+              "description": "Violence",
+              "name": "暴力",
+              "url": null
+            }
+          ],
+          "contentInteractiveElement": [],
+          "rating-system": "CGSRR",
+          "url": "https://cdn-a.sonyentertainmentnetwork.com/grc/images/ratings/hd/cgsrr/Rating12.png"
+        },
+        "content-type": "1",
+        "default-sku-id": "EP4541-CUSA04667_00-ASIA000000000000-H001",
+        "dob-required": false,
+        "file-size": {
+          "unit": "GB",
+          "value": 1.17
+        },
+        "game-content-type": "PSN 遊戲",
+        "genres": [
+          "戰略"
+        ],
+        "is-igc-upsell": false,
+        "is-multiplayer-upsell": false,
+        "kamaji-relationship": "extras",
+        "legal-text": "所購買的內容或服務均不可退款或轉讓，亦不可用以贖回現金或記賬。",
+        "long-description": "<b><font color=\"orange\">支援語言包括英文與簡體中文。</font></b><br><br><b><font color=\"orange\">※另有包含此單獨商品內容的套裝包。請注意切勿重複購買。</font></b><br><br>你可以在『Reus』中操控強大的巨人隨心所欲塑造這顆星球，創造山脈、海洋、森林等等，再以動植物和礦物充實你的星球。但是唯有一樣事物超出你的掌握：善惡兼具的「人類」。你可以塑造他們的世界，卻無法形塑他們的意志。提供資源，他們可以成長茁壯；但給了太多，卻可能使其貪婪。<br><br>主要特色：<br>-操控4名各具獨特能力的強大巨人<br>-按照個人想法塑造星球，嘗試不同種類的地形<br>-融合昇級與協同機制的複雜系統，提供多變的玩法<br>-觀察人類，支使巨人給予獎賞或懲戒<br>-享受充滿趣味的藝術風格與精彩的配樂<br>-超過100種動植物與礦物，豐富你的星球<br>-幫助人類成就眾多發展，解鎖新的內容<br><br><b>Copyright：</b><br>Published by SOEDESCO, Koddeweg 13, 3194 DH, Hoogvliet. © 2013-2016, Abbey Games B.V. FMOD Studio, copyright © Firelight Technologies Pty, Ltd., 2012-2016.<br><br>購買或使用本內容需遵守SEN使用條款及用戶合約。",
+        "macross-brain-context": "game",
+        "media-list": {
+          "preview": [
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/EP4541/CUSA04667_00/FREE_CONTENTd6e7x12P8MNtbE9S7GXf/1.mp4"
+            }
+          ],
+          "promo": {
+            "images": [],
+            "videos": []
+          },
+          "screenshots": [
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/EP4541/CUSA04667_00/FREE_CONTENTDTzYOMKpxpiP2aA3XLp1/1.jpg"
+            },
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/EP4541/CUSA04667_00/FREE_CONTENTffuVoCZMH3KZ2XrULALV/2.jpg"
+            },
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/EP4541/CUSA04667_00/FREE_CONTENT9JSJiqP9GPFQ4cPG7Yax/3.jpg"
+            }
+          ]
+        },
+        "name": "Reus",
+        "nsx-confirm-message": "",
+        "parent": null,
+        "platforms": [
+          "PS4"
+        ],
+        "plus-reward-description": null,
+        "primary-classification": "DOWNLOADABLE_GAME",
+        "provider-name": "SOEDESCO Publishing B.V.",
+        "ps-camera-compatibility": "incompatible",
+        "ps-move-compatibility": "incompatible",
+        "ps-vr-compatibility": "incompatible",
+        "release-date": "2018-01-11T01:00:00Z",
+        "secondary-classification": "GAME",
+        "skus": [
+          {
+            "entitlements": [
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              }
+            ],
+            "id": "EP4541-CUSA04667_00-ASIA000000000000-H001",
+            "is-preorder": false,
+            "multibuy": null,
+            "name": "中英文版",
+            "playability-date": "",
+            "plus-reward-description": null,
+            "prices": {
+              "non-plus-user": {
+                "actual-price": {
+                  "display": "NT$333",
+                  "value": 33300
+                },
+                "availability": {
+                  "end-date": "2018-09-24T15:59:00Z",
+                  "start-date": "2018-09-11T03:00:00Z"
+                },
+                "discount-percentage": 40,
+                "is-plus": false,
+                "strikethrough-price": {
+                  "display": "NT$555",
+                  "value": 55500
+                },
+                "upsell-price": {
+                  "display": "NT$277",
+                  "value": 27700
+                }
+              },
+              "plus-user": {
+                "actual-price": {
+                  "display": "NT$277",
+                  "value": 27700
+                },
+                "availability": {
+                  "end-date": "2018-09-24T15:59:00Z",
+                  "start-date": "2018-09-11T03:00:00Z"
+                },
+                "discount-percentage": 50,
+                "is-plus": true,
+                "strikethrough-price": {
+                  "display": "NT$555",
+                  "value": 55500
+                },
+                "upsell-price": null
+              }
+            }
+          }
+        ],
+        "star-rating": {
+          "score": 3,
+          "total": 2
+        },
+        "subtitle-language-codes": [
+          {
+            "codes": [
+              "en",
+              "zh"
+            ],
+            "name": "Reus"
+          }
+        ],
+        "thumbnail-url-base": "https://store.playstation.com/store/api/chihiro/00_09_000/container/TW/ch/19/EP4541-CUSA04667_00-ASIA000000000000/1536828420000/image",
+        "top-category": "downloadable_game",
+        "upsell-info": {
+          "discount-percentage-difference": 10,
+          "display-price": "NT$277",
+          "is-free": false,
+          "type": "save-extra-percentage"
+        },
+        "voice-language-codes": []
+      },
+      "id": "EP4541-CUSA04667_00-ASIA000000000000",
+      "relationships": {
+        "children": {
+          "data": [
+            {
+              "id": "EP4541-CUSA04667_00-ASIA000000000001",
+              "type": "game-related"
+            },
+            {
+              "id": "EP4541-CUSA04667_00-ASIA000000000002",
+              "type": "game-related"
+            },
+            {
+              "id": "EP4541-CUSA04667_00-ASIA000000000003",
+              "type": "game-related"
+            },
+            {
+              "id": "EP4541-CUSA04667_00-ASIA000000000004",
+              "type": "game-related"
+            },
+            {
+              "id": "EP4541-CUSA04667_00-ASIA000000000005",
+              "type": "game-related"
+            },
+            {
+              "id": "EP4541-CUSA04667_00-ASIA000000000006",
+              "type": "game"
+            }
+          ]
+        },
+        "legacy-skus": {
+          "data": [
+            {
+              "id": "EP4541-CUSA04667_00-ASIA000000000000-H001",
+              "type": "legacy-sku"
+            }
+          ]
+        }
+      },
+      "type": "game"
+    },
+    {
+      "attributes": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "NT$666",
+        "eligibilities": [
+          {
+            "description": null,
+            "drms": [],
+            "entitlement_type": null,
+            "id": "EP4541-CUSA04667_00-REUSPS4000000000",
+            "is_eligible": 1,
+            "name": "Reus",
+            "operand": "IS_ACTIVE",
+            "operator": "FALSE"
+          }
+        ],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP4541-CUSA04667_00-AV00000000000004",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "REUS - SWAMP GIANT AVATAR",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP4541-CUSA04667_00-AV00000000000003",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "REUS - ROCK GIANT AVATAR",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP4541-CUSA04667_00-AV00000000000002",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "REUS - OCEAN GIANT AVATAR",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP4541-CUSA04667_00-AV00000000000001",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "REUS - FOREST GIANT AVATAR",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 3,
+            "id": "EP4541-CUSA04667_00-REUSPS4000000000",
+            "license_type": 0,
+            "metadata": {
+              "subtitleLanguageCode": [
+                "de",
+                "ru",
+                "en",
+                "it",
+                "pt_BR",
+                "fr",
+                "pl",
+                "zh",
+                "es",
+                "nl"
+              ]
+            },
+            "name": "Reus",
+            "packageType": "PS4GD",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 1174798336
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": [
+              "en",
+              "zh"
+            ],
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP4541-CUSA04667_00-ETH0000000000565",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_THEME"
+              ]
+            },
+            "name": "Reus",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 8519680
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP4541-CUSA04667_00-ASIA000000000006-H001",
+        "is_original": false,
+        "name": "中英文版",
+        "platforms": [
+          0,
+          10,
+          13
+        ],
+        "price": 66600,
+        "rewards": [
+          {
+            "bonus_discount": 50,
+            "bonus_display_price": "NT$332",
+            "bonus_entitlement_id": "IP9103-NPIA90007_00-PLUS00",
+            "bonus_price": 33200,
+            "campaigns": [
+              {
+                "end_date": "2018-09-24T15:59:00Z",
+                "id": "CAMP-SCEH-00152065",
+                "start_date": "2018-09-11T03:00:00Z"
+              }
+            ],
+            "discount": 40,
+            "display_price": "NT$399",
+            "end_date": "2018-09-24T15:59:00Z",
+            "id": "CAMP-RWD-SCEH-02748097",
+            "isPlus": false,
+            "price": 39900,
+            "reward_source_type_id": 2,
+            "reward_type": 2,
+            "start_date": "2018-09-11T03:00:00Z"
+          }
+        ],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "id": "EP4541-CUSA04667_00-ASIA000000000006-H001",
+      "relationships": {
+        "children": {
+          "data": []
+        },
+        "legacy-skus": {
+          "data": []
+        }
+      },
+      "type": "legacy-sku"
+    },
+    {
+      "attributes": {
+        "badge-info": {
+          "non-plus-user": {
+            "discount-percentage": 40,
+            "is-plus": false,
+            "type": "save-percentage"
+          },
+          "plus-user": {
+            "discount-percentage": 50,
+            "is-plus": true,
+            "type": "save-percentage"
+          }
+        },
+        "cero-z-status": {
+          "is-allowed-in-cart": false,
+          "is-on": false
+        },
+        "content-rating": {
+          "content-descriptors": [
+            {
+              "description": "Violence",
+              "name": "暴力",
+              "url": null
+            }
+          ],
+          "contentInteractiveElement": [],
+          "rating-system": "CGSRR",
+          "url": "https://cdn-a.sonyentertainmentnetwork.com/grc/images/ratings/hd/cgsrr/Rating12.png"
+        },
+        "content-type": "1",
+        "default-sku-id": "EP4541-CUSA04667_00-ASIA000000000006-H001",
+        "dob-required": false,
+        "file-size": {
+          "unit": "GB",
+          "value": 1.18
+        },
+        "game-content-type": "PSN 遊戲",
+        "genres": [
+          "戰略"
+        ],
+        "is-igc-upsell": false,
+        "is-multiplayer-upsell": false,
+        "kamaji-relationship": "extras",
+        "legal-text": "所購買的內容或服務均不可退款或轉讓，亦不可用以贖回現金或記賬。",
+        "long-description": "<b><font color=\"orange\">支援語言包括英文與簡體中文。</font></b><br><br><b><font color=\"orange\">※在購買本套裝包前若已購買單獨商品，恕不會作出退款，敬請見諒。</font></b><br><br>「Reus - Deluxe Edition」內含『Reus』遊戲、專屬『Reus』主題與4款個人造型。<br><br>你可以在『Reus』中操控強大的巨人隨心所欲塑造這顆星球，創造山脈、海洋、森林等等，再以動植物和礦物充實你的星球。但是唯有一樣事物超出你的掌握：善惡兼具的「人類」。你可以塑造他們的世界，卻無法形塑他們的意志。提供資源，他們可以成長茁壯；但給了太多，卻可能使其貪婪。<br><br>主要特色：<br>-操控4名各具獨特能力的強大巨人<br>-按照個人想法塑造星球，嘗試不同種類的地形<br>-融合昇級與協同機制的複雜系統，提供多變的玩法<br>-觀察人類，支使巨人給予獎賞或懲戒<br>-享受充滿趣味的藝術風格與精彩的配樂<br>-超過100種動植物與礦物，豐富你的星球<br>-幫助人類成就眾多發展，解鎖新的內容<br><br><b>Copyright：</b><br>Published by SOEDESCO, Koddeweg 13, 3194 DH, Hoogvliet. © 2013-2016, Abbey Games B.V. FMOD Studio, copyright © Firelight Technologies Pty, Ltd., 2012-2016.<br><br>購買或使用本內容需遵守SEN使用條款及用戶合約。",
+        "macross-brain-context": "game",
+        "media-list": {
+          "preview": [
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/EP4541/CUSA04667_00/FREE_CONTENTIS80faK2dugAEnusTqzs/1.mp4"
+            }
+          ],
+          "promo": {
+            "images": [],
+            "videos": []
+          },
+          "screenshots": [
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/EP4541/CUSA04667_00/FREE_CONTENTMhgcGK7MMkdOllc9Ho0Y/1.jpg"
+            },
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/EP4541/CUSA04667_00/FREE_CONTENTkwtPCn33QeyVg2noy8zJ/2.jpg"
+            },
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/EP4541/CUSA04667_00/FREE_CONTENT9dOQNbQ3k7yEhUEg6XCo/3.jpg"
+            }
+          ]
+        },
+        "name": "Reus - Deluxe Edition",
+        "nsx-confirm-message": "",
+        "parent": {
+          "id": "EP4541-CUSA04667_00-ASIA000000000000",
+          "name": "Reus",
+          "thumbnail": "http://apollo2.dl.playstation.net/cdn/EP4541/CUSA04667_00/wfeknzXytzfwnLJRDYjNkQSgJI0IcDP3utJQQ5AbhTmkMMylMtbY72A4cTksUX1x.png",
+          "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/TW/ch/19/EP4541-CUSA04667_00-ASIA000000000000/1536828420"
+        },
+        "platforms": [
+          "PS4"
+        ],
+        "plus-reward-description": null,
+        "primary-classification": "DOWNLOADABLE_GAME",
+        "provider-name": "SOEDESCO Publishing B.V.",
+        "ps-camera-compatibility": "incompatible",
+        "ps-move-compatibility": "incompatible",
+        "ps-vr-compatibility": "incompatible",
+        "release-date": "2018-01-11T01:00:00Z",
+        "secondary-classification": "GAME",
+        "skus": [
+          {
+            "entitlements": [
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              },
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              },
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              },
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              },
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              },
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              }
+            ],
+            "id": "EP4541-CUSA04667_00-ASIA000000000006-H001",
+            "is-preorder": false,
+            "multibuy": null,
+            "name": "中英文版",
+            "playability-date": "",
+            "plus-reward-description": null,
+            "prices": {
+              "non-plus-user": {
+                "actual-price": {
+                  "display": "NT$399",
+                  "value": 39900
+                },
+                "availability": {
+                  "end-date": "2018-09-24T15:59:00Z",
+                  "start-date": "2018-09-11T03:00:00Z"
+                },
+                "discount-percentage": 40,
+                "is-plus": false,
+                "strikethrough-price": {
+                  "display": "NT$666",
+                  "value": 66600
+                },
+                "upsell-price": {
+                  "display": "NT$332",
+                  "value": 33200
+                }
+              },
+              "plus-user": {
+                "actual-price": {
+                  "display": "NT$332",
+                  "value": 33200
+                },
+                "availability": {
+                  "end-date": "2018-09-24T15:59:00Z",
+                  "start-date": "2018-09-11T03:00:00Z"
+                },
+                "discount-percentage": 50,
+                "is-plus": true,
+                "strikethrough-price": {
+                  "display": "NT$666",
+                  "value": 66600
+                },
+                "upsell-price": null
+              }
+            }
+          }
+        ],
+        "star-rating": {
+          "score": null,
+          "total": null
+        },
+        "subtitle-language-codes": [
+          {
+            "codes": [
+              "en",
+              "zh"
+            ],
+            "name": "Reus"
+          }
+        ],
+        "thumbnail-url-base": "https://store.playstation.com/store/api/chihiro/00_09_000/container/TW/ch/19/EP4541-CUSA04667_00-ASIA000000000006/1536828387000/image",
+        "top-category": "downloadable_game",
+        "upsell-info": {
+          "discount-percentage-difference": 10,
+          "display-price": "NT$332",
+          "is-free": false,
+          "type": "save-extra-percentage"
+        },
+        "voice-language-codes": []
+      },
+      "id": "EP4541-CUSA04667_00-ASIA000000000006",
+      "relationships": {
+        "children": {
+          "data": []
+        },
+        "legacy-skus": {
+          "data": [
+            {
+              "id": "EP4541-CUSA04667_00-ASIA000000000006-H001",
+              "type": "legacy-sku"
+            }
+          ]
+        }
+      },
+      "type": "game"
+    },
+    {
+      "attributes": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "NT$555",
+        "eligibilities": [],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 3,
+            "id": "EP2615-CUSA08462_00-0000000000000228",
+            "license_type": 0,
+            "metadata": {
+              "subtitleLanguageCode": [
+                "de",
+                "no",
+                "fi",
+                "sv",
+                "ru",
+                "en",
+                "it",
+                "fr",
+                "es",
+                "ar",
+                "pl",
+                "da",
+                "nl"
+              ]
+            },
+            "name": "SHINY",
+            "packageType": "PS4GD",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 2965831680
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": [
+              "en"
+            ],
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP2615-CUSA08462_00-ASIA000000000000-H001",
+        "is_original": false,
+        "name": "中英文版",
+        "platforms": [
+          0,
+          10,
+          13
+        ],
+        "price": 55500,
+        "rewards": [
+          {
+            "bonus_discount": 50,
+            "bonus_display_price": "NT$277",
+            "bonus_entitlement_id": "IP9103-NPIA90007_00-PLUS00",
+            "bonus_price": 27700,
+            "campaigns": [
+              {
+                "end_date": "2018-09-24T15:59:00Z",
+                "id": "CAMP-SCEH-00152065",
+                "start_date": "2018-09-11T03:00:00Z"
+              }
+            ],
+            "discount": 40,
+            "display_price": "NT$333",
+            "end_date": "2018-09-24T15:59:00Z",
+            "id": "CAMP-RWD-SCEH-02748097",
+            "isPlus": false,
+            "price": 33300,
+            "reward_source_type_id": 2,
+            "reward_type": 2,
+            "start_date": "2018-09-11T03:00:00Z"
+          }
+        ],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "id": "EP2615-CUSA08462_00-ASIA000000000000-H001",
+      "relationships": {
+        "children": {
+          "data": []
+        },
+        "legacy-skus": {
+          "data": []
+        }
+      },
+      "type": "legacy-sku"
+    },
+    {
+      "attributes": {
+        "badge-info": {
+          "non-plus-user": {
+            "discount-percentage": 40,
+            "is-plus": false,
+            "type": "save-percentage"
+          },
+          "plus-user": {
+            "discount-percentage": 50,
+            "is-plus": true,
+            "type": "save-percentage"
+          }
+        },
+        "cero-z-status": {
+          "is-allowed-in-cart": false,
+          "is-on": false
+        },
+        "content-rating": {
+          "content-descriptors": [],
+          "contentInteractiveElement": [],
+          "rating-system": "CGSRR",
+          "url": "https://cdn-a.sonyentertainmentnetwork.com/grc/images/ratings/hd/cgsrr/RatingAll.png"
+        },
+        "content-type": "1",
+        "default-sku-id": "EP2615-CUSA08462_00-ASIA000000000000-H001",
+        "dob-required": false,
+        "file-size": {
+          "unit": "GB",
+          "value": 2.97
+        },
+        "game-content-type": "PSN 遊戲",
+        "genres": [
+          "冒險"
+        ],
+        "is-igc-upsell": false,
+        "is-multiplayer-upsell": false,
+        "kamaji-relationship": "extras",
+        "legal-text": "所購買的內容或服務均不可退款或轉讓，亦不可用以贖回現金或記賬。",
+        "long-description": "<b><font color=\"orange\">支援語言包括英文與簡體中文。</font></b><br><br><b><font color=\"orange\">※另有包含此單獨商品內容的套裝包。請注意切勿重複購買。</font></b><br><br>人類遺棄了即將毀滅的星球Aurora，機器人Kramer 227被留下來自生自滅，他必須在Aurora撞進太陽前拯救他的機器人同伴。在橫跨整個星球的旅程中，Kramer必須克服困難障礙，並找到能源為自己和同伴提供動力以前往安全之地。<br><br>為了找到所有的機器人，Kramer必須踏遍20個關卡中的每個角落，四處跳躍並探索平台。Aurora的能源所剩無幾，而且每個動作都會消耗Kramer的電量。他得收集電池或使用發電機充電，並幫助他的機器人同胞脫離險境。收集噴射背包、能量球等強化道具，將對這趟生死攸關的旅程有所幫助。<br><br>享受非暴力的平台動作<br>探索20個廣大的關卡<br>管理能量等級──也就是機器人的生命來源！<br><br><b>Copyright：</b><br>Developed by Garage 227 Studios, Inc. Published by SOEDESCO, Koddeweg 13, 3194 DH, Hoogvliet. All rights reserved.<br><br>購買或使用本內容需遵守SEN使用條款及用戶合約。",
+        "macross-brain-context": "game",
+        "media-list": {
+          "preview": [
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/EP2615/CUSA08462_00/FREE_CONTENTZbVh4v2pyFmPaoKxi3d1/1.mp4"
+            }
+          ],
+          "promo": {
+            "images": [],
+            "videos": []
+          },
+          "screenshots": [
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/EP2615/CUSA08462_00/FREE_CONTENTEHuV3Ac6wrRklZ9i9vcO/1.jpg"
+            },
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/EP2615/CUSA08462_00/FREE_CONTENTi0yVvxtsyN4sYNKbN2Kh/2.jpg"
+            },
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/EP2615/CUSA08462_00/FREE_CONTENTPybk34rAV31Xjch5oM03/3.jpg"
+            }
+          ]
+        },
+        "name": "Shiny - A Robotic Adventure",
+        "nsx-confirm-message": "",
+        "parent": null,
+        "platforms": [
+          "PS4"
+        ],
+        "plus-reward-description": null,
+        "primary-classification": "DOWNLOADABLE_GAME",
+        "provider-name": "SOEDESCO Publishing B.V.",
+        "ps-camera-compatibility": "incompatible",
+        "ps-move-compatibility": "incompatible",
+        "ps-vr-compatibility": "incompatible",
+        "release-date": "2018-03-29T01:00:00Z",
+        "secondary-classification": "GAME",
+        "skus": [
+          {
+            "entitlements": [
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              }
+            ],
+            "id": "EP2615-CUSA08462_00-ASIA000000000000-H001",
+            "is-preorder": false,
+            "multibuy": null,
+            "name": "中英文版",
+            "playability-date": "",
+            "plus-reward-description": null,
+            "prices": {
+              "non-plus-user": {
+                "actual-price": {
+                  "display": "NT$333",
+                  "value": 33300
+                },
+                "availability": {
+                  "end-date": "2018-09-24T15:59:00Z",
+                  "start-date": "2018-09-11T03:00:00Z"
+                },
+                "discount-percentage": 40,
+                "is-plus": false,
+                "strikethrough-price": {
+                  "display": "NT$555",
+                  "value": 55500
+                },
+                "upsell-price": {
+                  "display": "NT$277",
+                  "value": 27700
+                }
+              },
+              "plus-user": {
+                "actual-price": {
+                  "display": "NT$277",
+                  "value": 27700
+                },
+                "availability": {
+                  "end-date": "2018-09-24T15:59:00Z",
+                  "start-date": "2018-09-11T03:00:00Z"
+                },
+                "discount-percentage": 50,
+                "is-plus": true,
+                "strikethrough-price": {
+                  "display": "NT$555",
+                  "value": 55500
+                },
+                "upsell-price": null
+              }
+            }
+          }
+        ],
+        "star-rating": {
+          "score": 5,
+          "total": 1
+        },
+        "subtitle-language-codes": [
+          {
+            "codes": [
+              "en"
+            ],
+            "name": "SHINY"
+          }
+        ],
+        "thumbnail-url-base": "https://store.playstation.com/store/api/chihiro/00_09_000/container/TW/ch/19/EP2615-CUSA08462_00-ASIA000000000000/1536828385000/image",
+        "top-category": "downloadable_game",
+        "upsell-info": {
+          "discount-percentage-difference": 10,
+          "display-price": "NT$277",
+          "is-free": false,
+          "type": "save-extra-percentage"
+        },
+        "voice-language-codes": []
+      },
+      "id": "EP2615-CUSA08462_00-ASIA000000000000",
+      "relationships": {
+        "children": {
+          "data": [
+            {
+              "id": "EP2615-CUSA08462_00-ASIA000000000001",
+              "type": "game"
+            },
+            {
+              "id": "EP2615-CUSA08462_00-ASIA000000000002",
+              "type": "game-related"
+            },
+            {
+              "id": "EP2615-CUSA08462_00-ASIA000000000003",
+              "type": "game-related"
+            },
+            {
+              "id": "EP2615-CUSA08462_00-ASIA000000000004",
+              "type": "game-related"
+            },
+            {
+              "id": "EP2615-CUSA08462_00-ASIA000000000005",
+              "type": "game-related"
+            },
+            {
+              "id": "EP2615-CUSA08462_00-ASIA000000000006",
+              "type": "game-related"
+            },
+            {
+              "id": "EP2615-CUSA08462_00-ASIA000000000007",
+              "type": "game-related"
+            },
+            {
+              "id": "EP2615-CUSA08462_00-ASIA000000000008",
+              "type": "game-related"
+            },
+            {
+              "id": "EP2615-CUSA08462_00-ASIA000000000009",
+              "type": "game-related"
+            }
+          ]
+        },
+        "legacy-skus": {
+          "data": [
+            {
+              "id": "EP2615-CUSA08462_00-ASIA000000000000-H001",
+              "type": "legacy-sku"
+            }
+          ]
+        }
+      },
+      "type": "game"
+    },
+    {
+      "attributes": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "NT$740",
+        "eligibilities": [
+          {
+            "description": null,
+            "drms": [],
+            "entitlement_type": null,
+            "id": "EP2615-CUSA08462_00-0000000000000228",
+            "is_eligible": 1,
+            "name": "SHINY",
+            "operand": "IS_ACTIVE",
+            "operator": "FALSE"
+          }
+        ],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP2615-CUSA08462_00-AV00000000000005",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "SHINY - NORELIUS AVATAR",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 3,
+            "id": "EP2615-CUSA08462_00-0000000000000228",
+            "license_type": 0,
+            "metadata": {
+              "subtitleLanguageCode": [
+                "de",
+                "no",
+                "fi",
+                "sv",
+                "ru",
+                "en",
+                "it",
+                "fr",
+                "es",
+                "ar",
+                "pl",
+                "da",
+                "nl"
+              ]
+            },
+            "name": "SHINY",
+            "packageType": "PS4GD",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 2965831680
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": [
+              "en"
+            ],
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP2615-CUSA08462_00-AV00000000000004",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "SHINY - LUCY AVATAR",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP2615-CUSA08462_00-AV00000000000003",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "SHINY - KRAMER AVATAR",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP2615-CUSA08462_00-AV00000000000002",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "SHINY - GIORGIO AVATAR",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP2615-CUSA08462_00-AV00000000000001",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "SHINY - DOUGLAS AVATAR",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP2615-CUSA08462_00-SHINYEUST0000000",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_THEME"
+              ]
+            },
+            "name": "Shiny - Working Class Heroes Theme",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 12713984
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP2615-CUSA08462_00-SHINYEUDT0000000",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_THEME"
+              ]
+            },
+            "name": "Shiny - Hold On Dynamic Theme",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 15007744
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP2615-CUSA08462_00-ASIA000000000001-H001",
+        "is_original": false,
+        "name": "中英文版",
+        "platforms": [
+          0,
+          10,
+          13
+        ],
+        "price": 74000,
+        "rewards": [
+          {
+            "bonus_discount": 50,
+            "bonus_display_price": "NT$370",
+            "bonus_entitlement_id": "IP9103-NPIA90007_00-PLUS00",
+            "bonus_price": 37000,
+            "campaigns": [
+              {
+                "end_date": "2018-09-24T15:59:00Z",
+                "id": "CAMP-SCEH-00152065",
+                "start_date": "2018-09-11T03:00:00Z"
+              }
+            ],
+            "discount": 40,
+            "display_price": "NT$444",
+            "end_date": "2018-09-24T15:59:00Z",
+            "id": "CAMP-RWD-SCEH-02748097",
+            "isPlus": false,
+            "price": 44400,
+            "reward_source_type_id": 2,
+            "reward_type": 2,
+            "start_date": "2018-09-11T03:00:00Z"
+          }
+        ],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "id": "EP2615-CUSA08462_00-ASIA000000000001-H001",
+      "relationships": {
+        "children": {
+          "data": []
+        },
+        "legacy-skus": {
+          "data": []
+        }
+      },
+      "type": "legacy-sku"
+    },
+    {
+      "attributes": {
+        "badge-info": {
+          "non-plus-user": {
+            "discount-percentage": 40,
+            "is-plus": false,
+            "type": "save-percentage"
+          },
+          "plus-user": {
+            "discount-percentage": 50,
+            "is-plus": true,
+            "type": "save-percentage"
+          }
+        },
+        "cero-z-status": {
+          "is-allowed-in-cart": false,
+          "is-on": false
+        },
+        "content-rating": {
+          "content-descriptors": [],
+          "contentInteractiveElement": [],
+          "rating-system": "CGSRR",
+          "url": "https://cdn-a.sonyentertainmentnetwork.com/grc/images/ratings/hd/cgsrr/RatingAll.png"
+        },
+        "content-type": "1",
+        "default-sku-id": "EP2615-CUSA08462_00-ASIA000000000001-H001",
+        "dob-required": false,
+        "file-size": {
+          "unit": "GB",
+          "value": 2.99
+        },
+        "game-content-type": "PSN 遊戲",
+        "genres": [
+          "冒險"
+        ],
+        "is-igc-upsell": false,
+        "is-multiplayer-upsell": false,
+        "kamaji-relationship": "extras",
+        "legal-text": "所購買的內容或服務均不可退款或轉讓，亦不可用以贖回現金或記賬。",
+        "long-description": "<b><font color=\"orange\">支援語言包括英文與簡體中文。</font></b><br><br><b><font color=\"orange\">※在購買本套裝包前若已購買單獨商品，恕不會作出退款，敬請見諒。</font></b><br><br>包括『Shiny - A Robotic Adventure』。<br>包括5款『Shiny』個人造型。<br>包括一款『Shiny』靜態主題。<br>包括一款『Shiny』動態主題。<br><br>人類遺棄了即將毀滅的星球Aurora，機器人Kramer 227被留下來自生自滅，他必須在Aurora撞進太陽前拯救他的機器人同伴。在橫跨整個星球的旅程中，Kramer必須克服困難障礙，並找到能源為自己和同伴提供動力以前往安全之地。<br><br>為了找到所有的機器人，Kramer必須踏遍20個關卡中的每個角落，四處跳躍並探索平台。Aurora的能源所剩無幾，而且每個動作都會消耗Kramer的電量。他得收集電池或使用發電機充電，並幫助他的機器人同胞脫離險境。收集噴射背包、能量球等強化道具，將對這趟生死攸關的旅程有所幫助。<br><br>享受非暴力的平台動作<br>探索20個廣大的關卡<br>管理能量等級──也就是機器人的生命來源！<br><br><b>Copyright：</b><br>Developed by Garage 227 Studios, Inc. Published by SOEDESCO, Koddeweg 13, 3194 DH, Hoogvliet. All rights reserved.<br><br>購買或使用本內容需遵守SEN使用條款及用戶合約。",
+        "macross-brain-context": "game",
+        "media-list": {
+          "preview": [
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/EP2615/CUSA08462_00/FREE_CONTENT0VysvO93o3OzZEzdTsRG/1.mp4"
+            }
+          ],
+          "promo": {
+            "images": [],
+            "videos": []
+          },
+          "screenshots": [
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/EP2615/CUSA08462_00/FREE_CONTENT8gboVPEQV8cNumWOhHhT/4.jpg"
+            },
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/EP2615/CUSA08462_00/FREE_CONTENTD8bIehjcPK7Ph3Her0zZ/5.jpg"
+            },
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/EP2615/CUSA08462_00/FREE_CONTENTqp4DhltvBcsGVk9J5yCC/6.jpg"
+            }
+          ]
+        },
+        "name": "Shiny - Deluxe Edition",
+        "nsx-confirm-message": "",
+        "parent": {
+          "id": "EP2615-CUSA08462_00-ASIA000000000000",
+          "name": "Shiny - A Robotic Adventure",
+          "thumbnail": "http://apollo2.dl.playstation.net/cdn/EP2615/CUSA08462_00/Lrcrsjqqf2rYm97beKaNVNJp07fE4cO9MQmdLn9tTlCs9jLvra7XXzrNVM2Y3kHz.png",
+          "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/TW/ch/19/EP2615-CUSA08462_00-ASIA000000000000/1536828385"
+        },
+        "platforms": [
+          "PS4"
+        ],
+        "plus-reward-description": null,
+        "primary-classification": "DOWNLOADABLE_GAME",
+        "provider-name": "SOEDESCO Publishing B.V.",
+        "ps-camera-compatibility": "incompatible",
+        "ps-move-compatibility": "incompatible",
+        "ps-vr-compatibility": "incompatible",
+        "release-date": "2018-03-29T01:00:00Z",
+        "secondary-classification": "GAME",
+        "skus": [
+          {
+            "entitlements": [
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              },
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              },
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              },
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              },
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              },
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              },
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              },
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              }
+            ],
+            "id": "EP2615-CUSA08462_00-ASIA000000000001-H001",
+            "is-preorder": false,
+            "multibuy": null,
+            "name": "中英文版",
+            "playability-date": "",
+            "plus-reward-description": null,
+            "prices": {
+              "non-plus-user": {
+                "actual-price": {
+                  "display": "NT$444",
+                  "value": 44400
+                },
+                "availability": {
+                  "end-date": "2018-09-24T15:59:00Z",
+                  "start-date": "2018-09-11T03:00:00Z"
+                },
+                "discount-percentage": 40,
+                "is-plus": false,
+                "strikethrough-price": {
+                  "display": "NT$740",
+                  "value": 74000
+                },
+                "upsell-price": {
+                  "display": "NT$370",
+                  "value": 37000
+                }
+              },
+              "plus-user": {
+                "actual-price": {
+                  "display": "NT$370",
+                  "value": 37000
+                },
+                "availability": {
+                  "end-date": "2018-09-24T15:59:00Z",
+                  "start-date": "2018-09-11T03:00:00Z"
+                },
+                "discount-percentage": 50,
+                "is-plus": true,
+                "strikethrough-price": {
+                  "display": "NT$740",
+                  "value": 74000
+                },
+                "upsell-price": null
+              }
+            }
+          }
+        ],
+        "star-rating": {
+          "score": 5,
+          "total": 1
+        },
+        "subtitle-language-codes": [
+          {
+            "codes": [
+              "en"
+            ],
+            "name": "SHINY"
+          }
+        ],
+        "thumbnail-url-base": "https://store.playstation.com/store/api/chihiro/00_09_000/container/TW/ch/19/EP2615-CUSA08462_00-ASIA000000000001/1536828428000/image",
+        "top-category": "downloadable_game",
+        "upsell-info": {
+          "discount-percentage-difference": 10,
+          "display-price": "NT$370",
+          "is-free": false,
+          "type": "save-extra-percentage"
+        },
+        "voice-language-codes": []
+      },
+      "id": "EP2615-CUSA08462_00-ASIA000000000001",
+      "relationships": {
+        "children": {
+          "data": []
+        },
+        "legacy-skus": {
+          "data": [
+            {
+              "id": "EP2615-CUSA08462_00-ASIA000000000001-H001",
+              "type": "legacy-sku"
+            }
+          ]
+        }
+      },
+      "type": "game"
+    },
+    {
+      "attributes": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "NT$168",
+        "eligibilities": [],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 3,
+            "id": "HP1060-CUSA03825_00-XGAMES01XG020100",
+            "license_type": 0,
+            "metadata": null,
+            "name": "Dreamals",
+            "packageType": "PS4GD",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 319881216
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "HP1060-CUSA03825_00-XGAMES01XG020100-H001",
+        "is_original": false,
+        "name": "中英韓文版",
+        "platforms": [
+          0,
+          10,
+          13
+        ],
+        "price": 16800,
+        "rewards": [
+          {
+            "bonus_discount": 80,
+            "bonus_display_price": "NT$33",
+            "bonus_entitlement_id": "IP9103-NPIA90007_00-PLUS00",
+            "bonus_price": 3300,
+            "campaigns": [
+              {
+                "end_date": "2018-09-24T15:59:00Z",
+                "id": "CAMP-SCEH-00152065",
+                "start_date": "2018-09-11T03:00:00Z"
+              }
+            ],
+            "discount": 70,
+            "display_price": "NT$50",
+            "end_date": "2018-09-24T15:59:00Z",
+            "id": "CAMP-RWD-SCEH-02748609",
+            "isPlus": false,
+            "price": 5000,
+            "reward_source_type_id": 2,
+            "reward_type": 2,
+            "start_date": "2018-09-11T03:00:00Z"
+          }
+        ],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "id": "HP1060-CUSA03825_00-XGAMES01XG020100-H001",
+      "relationships": {
+        "children": {
+          "data": []
+        },
+        "legacy-skus": {
+          "data": []
+        }
+      },
+      "type": "legacy-sku"
+    },
+    {
+      "attributes": {
+        "badge-info": {
+          "non-plus-user": {
+            "discount-percentage": 70,
+            "is-plus": false,
+            "type": "save-percentage"
+          },
+          "plus-user": {
+            "discount-percentage": 80,
+            "is-plus": true,
+            "type": "save-percentage"
+          }
+        },
+        "cero-z-status": {
+          "is-allowed-in-cart": false,
+          "is-on": false
+        },
+        "content-rating": {
+          "content-descriptors": [],
+          "contentInteractiveElement": [],
+          "rating-system": "CGSRR",
+          "url": "https://cdn-a.sonyentertainmentnetwork.com/grc/images/ratings/hd/cgsrr/Rating6.png"
+        },
+        "content-type": "1",
+        "default-sku-id": "HP1060-CUSA03825_00-XGAMES01XG020100-H001",
+        "dob-required": false,
+        "file-size": {
+          "unit": "MB",
+          "value": 319.88
+        },
+        "game-content-type": "PSN 遊戲",
+        "genres": [
+          "益智"
+        ],
+        "is-igc-upsell": false,
+        "is-multiplayer-upsell": false,
+        "kamaji-relationship": "extras",
+        "legal-text": "所購買的內容或服務均不可退款或轉讓，亦不可用以贖回現金或記賬。",
+        "long-description": "被召喚到夢境的三只動物，爲了返回現實世界而開始冒險。<br>結合只能移動至一個方向的動物，找出能夠獲取鑰匙的路。<br><br>特色<br>新的謎題 : 結合只能移動至一個方向的動物，解決謎題吧。<br>多樣的玄機花磚 : 好好利用20幾種的多樣的花磚，解除謎題。<br>多樣的關卡 : 4個風格、80種關卡，請體驗一下吧。<br><br><b>Copyright：</b><br>Copyright 2015. XINESS Co., Ltd. All right reserved.<br><br>購買或使用本內容需遵守SEN使用條款及用戶合約。",
+        "macross-brain-context": "game",
+        "media-list": {
+          "preview": [],
+          "promo": {
+            "images": [
+              {
+                "url": "https://nsx.np.dl.playstation.net/nsx/material/b/bbb43387e0d7a017666ff0a8ea11c6dd3273c0e6-1116051.jpg"
+              },
+              {
+                "url": "https://nsx.np.dl.playstation.net/nsx/material/3/36f483e8b5ea248b3202217d8d251069b3057cb2-1116047.jpg"
+              },
+              {
+                "url": "https://nsx.np.dl.playstation.net/nsx/material/6/6f097b75dca49c93a47e5e772e416c2ed56b4d25-1116046.jpg"
+              }
+            ],
+            "videos": [
+              {
+                "url": "https://nsx.np.dl.playstation.net/nsx/material/4/49fde7cf41a25281345bf0e8456918305025b899-1116632.mp4?country=TW"
+              }
+            ]
+          },
+          "screenshots": []
+        },
+        "name": "夢境萌寵",
+        "nsx-confirm-message": "",
+        "parent": null,
+        "platforms": [
+          "PS4"
+        ],
+        "plus-reward-description": null,
+        "primary-classification": "DOWNLOADABLE_GAME",
+        "provider-name": "XINESS Co., Ltd.",
+        "ps-camera-compatibility": "incompatible",
+        "ps-move-compatibility": "incompatible",
+        "ps-vr-compatibility": "incompatible",
+        "release-date": "2015-12-02T01:00:00Z",
+        "secondary-classification": "GAME",
+        "skus": [
+          {
+            "entitlements": [
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              }
+            ],
+            "id": "HP1060-CUSA03825_00-XGAMES01XG020100-H001",
+            "is-preorder": false,
+            "multibuy": null,
+            "name": "中英韓文版",
+            "playability-date": "",
+            "plus-reward-description": null,
+            "prices": {
+              "non-plus-user": {
+                "actual-price": {
+                  "display": "NT$50",
+                  "value": 5000
+                },
+                "availability": {
+                  "end-date": "2018-09-24T15:59:00Z",
+                  "start-date": "2018-09-11T03:00:00Z"
+                },
+                "discount-percentage": 70,
+                "is-plus": false,
+                "strikethrough-price": {
+                  "display": "NT$168",
+                  "value": 16800
+                },
+                "upsell-price": {
+                  "display": "NT$33",
+                  "value": 3300
+                }
+              },
+              "plus-user": {
+                "actual-price": {
+                  "display": "NT$33",
+                  "value": 3300
+                },
+                "availability": {
+                  "end-date": "2018-09-24T15:59:00Z",
+                  "start-date": "2018-09-11T03:00:00Z"
+                },
+                "discount-percentage": 80,
+                "is-plus": true,
+                "strikethrough-price": {
+                  "display": "NT$168",
+                  "value": 16800
+                },
+                "upsell-price": null
+              }
+            }
+          }
+        ],
+        "star-rating": {
+          "score": 3.22,
+          "total": 83
+        },
+        "subtitle-language-codes": [],
+        "thumbnail-url-base": "https://store.playstation.com/store/api/chihiro/00_09_000/container/TW/ch/19/HP1060-CUSA03825_00-XGAMES01XG020100/1536828511000/image",
+        "top-category": "downloadable_game",
+        "upsell-info": {
+          "discount-percentage-difference": 10,
+          "display-price": "NT$33",
+          "is-free": false,
+          "type": "save-extra-percentage"
+        },
+        "voice-language-codes": []
+      },
+      "id": "HP1060-CUSA03825_00-XGAMES01XG020100",
+      "relationships": {
+        "children": {
+          "data": []
+        },
+        "legacy-skus": {
+          "data": [
+            {
+              "id": "HP1060-CUSA03825_00-XGAMES01XG020100-H001",
+              "type": "legacy-sku"
+            }
+          ]
+        }
+      },
+      "type": "game"
+    },
+    {
+      "attributes": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "NT$349",
+        "eligibilities": [],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 3,
+            "id": "HP1060-CUSA05138_00-XGAMES01XG030100",
+            "license_type": 0,
+            "metadata": null,
+            "name": "Dreamals: Dream Quest",
+            "packageType": "PS4GD",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 287768576
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "HP1060-CUSA05138_00-XGAMES01XG030100-H001",
+        "is_original": false,
+        "name": "英韓文版",
+        "platforms": [
+          0,
+          10,
+          13
+        ],
+        "price": 34900,
+        "rewards": [
+          {
+            "bonus_discount": 80,
+            "bonus_display_price": "NT$69",
+            "bonus_entitlement_id": "IP9103-NPIA90007_00-PLUS00",
+            "bonus_price": 6900,
+            "campaigns": [
+              {
+                "end_date": "2018-09-24T15:59:00Z",
+                "id": "CAMP-SCEH-00152065",
+                "start_date": "2018-09-11T03:00:00Z"
+              }
+            ],
+            "discount": 70,
+            "display_price": "NT$104",
+            "end_date": "2018-09-24T15:59:00Z",
+            "id": "CAMP-RWD-SCEH-02748609",
+            "isPlus": false,
+            "price": 10400,
+            "reward_source_type_id": 2,
+            "reward_type": 2,
+            "start_date": "2018-09-11T03:00:00Z"
+          }
+        ],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "id": "HP1060-CUSA05138_00-XGAMES01XG030100-H001",
+      "relationships": {
+        "children": {
+          "data": []
+        },
+        "legacy-skus": {
+          "data": []
+        }
+      },
+      "type": "legacy-sku"
+    },
+    {
+      "attributes": {
+        "badge-info": {
+          "non-plus-user": {
+            "discount-percentage": 70,
+            "is-plus": false,
+            "type": "save-percentage"
+          },
+          "plus-user": {
+            "discount-percentage": 80,
+            "is-plus": true,
+            "type": "save-percentage"
+          }
+        },
+        "cero-z-status": {
+          "is-allowed-in-cart": false,
+          "is-on": false
+        },
+        "content-rating": {
+          "content-descriptors": [],
+          "contentInteractiveElement": [],
+          "rating-system": "CGSRR",
+          "url": "https://cdn-a.sonyentertainmentnetwork.com/grc/images/ratings/hd/cgsrr/Rating6.png"
+        },
+        "content-type": "1",
+        "default-sku-id": "HP1060-CUSA05138_00-XGAMES01XG030100-H001",
+        "dob-required": false,
+        "file-size": {
+          "unit": "MB",
+          "value": 287.77
+        },
+        "game-content-type": "PSN 遊戲",
+        "genres": [
+          "益智"
+        ],
+        "is-igc-upsell": false,
+        "is-multiplayer-upsell": false,
+        "kamaji-relationship": "extras",
+        "legal-text": "所購買的內容或服務均不可退款或轉讓，亦不可用以贖回現金或記賬。",
+        "long-description": "有一個被稱為「夢幻國度」的夢世界，在這裡，所有人的美夢都能成真。<br>有三隻受傷且無家可歸的動物在無意間進入夢幻國度。 <br>他們是否能夠找到夢幻國度失落的寶藏並拯救全世界？<br>他們想要重拾健康與安全回家的美夢能否成真？<br><br>特色<br>- 創新的動作迷宮遊戲： 每隻動物都是以設定的方向移動。 結合的動物可以用更多方向移動。 您也可以分開已經結合的動物！ 尋找絕佳的地點以結合或分開動物，並快速地通過關卡！<br>- 超過 30 刺激的陷阱磚塊 <br>- 6 種主題以及 100 種設計精良的關卡<br><br><b>Copyright：</b><br>Copyright 2016. XINESS Co., Ltd. All right reserved.<br><br>購買或使用本內容需遵守SEN使用條款及用戶合約。",
+        "macross-brain-context": "game",
+        "media-list": {
+          "preview": [
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/HP1060/CUSA05138_00/FREE_CONTENT0cE0zIqFzHJAQXbVy1bj/160629DreamalsDreamQuest_Video_720p_29fps.mp4"
+            }
+          ],
+          "promo": {
+            "images": [],
+            "videos": []
+          },
+          "screenshots": [
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/HP1060/CUSA05138_00/FREE_CONTENThuQoU0Mbe4b1IlN9K2Yf/160629DreamalsDreamQuest_Screenshot01_screenshot.jpg"
+            },
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/HP1060/CUSA05138_00/FREE_CONTENT5euvXDTO43R8EERyaPNz/160629DreamalsDreamQuest_Screenshot02_screenshot.jpg"
+            },
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/HP1060/CUSA05138_00/FREE_CONTENTD2FwNZNVTzrdCT2eIv28/160629DreamalsDreamQuest_Screenshot03_screenshot.jpg"
+            }
+          ]
+        },
+        "name": "夢境萌寵：夢之探險",
+        "nsx-confirm-message": "",
+        "parent": null,
+        "platforms": [
+          "PS4"
+        ],
+        "plus-reward-description": null,
+        "primary-classification": "DOWNLOADABLE_GAME",
+        "provider-name": "XINESS Co., Ltd.",
+        "ps-camera-compatibility": "incompatible",
+        "ps-move-compatibility": "incompatible",
+        "ps-vr-compatibility": "incompatible",
+        "release-date": "2016-06-29T01:00:00Z",
+        "secondary-classification": "GAME",
+        "skus": [
+          {
+            "entitlements": [
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              }
+            ],
+            "id": "HP1060-CUSA05138_00-XGAMES01XG030100-H001",
+            "is-preorder": false,
+            "multibuy": null,
+            "name": "英韓文版",
+            "playability-date": "",
+            "plus-reward-description": null,
+            "prices": {
+              "non-plus-user": {
+                "actual-price": {
+                  "display": "NT$104",
+                  "value": 10400
+                },
+                "availability": {
+                  "end-date": "2018-09-24T15:59:00Z",
+                  "start-date": "2018-09-11T03:00:00Z"
+                },
+                "discount-percentage": 70,
+                "is-plus": false,
+                "strikethrough-price": {
+                  "display": "NT$349",
+                  "value": 34900
+                },
+                "upsell-price": {
+                  "display": "NT$69",
+                  "value": 6900
+                }
+              },
+              "plus-user": {
+                "actual-price": {
+                  "display": "NT$69",
+                  "value": 6900
+                },
+                "availability": {
+                  "end-date": "2018-09-24T15:59:00Z",
+                  "start-date": "2018-09-11T03:00:00Z"
+                },
+                "discount-percentage": 80,
+                "is-plus": true,
+                "strikethrough-price": {
+                  "display": "NT$349",
+                  "value": 34900
+                },
+                "upsell-price": null
+              }
+            }
+          }
+        ],
+        "star-rating": {
+          "score": 3,
+          "total": 23
+        },
+        "subtitle-language-codes": [],
+        "thumbnail-url-base": "https://store.playstation.com/store/api/chihiro/00_09_000/container/TW/ch/19/HP1060-CUSA05138_00-XGAMES01XG030100/1536828493000/image",
+        "top-category": "downloadable_game",
+        "upsell-info": {
+          "discount-percentage-difference": 10,
+          "display-price": "NT$69",
+          "is-free": false,
+          "type": "save-extra-percentage"
+        },
+        "voice-language-codes": []
+      },
+      "id": "HP1060-CUSA05138_00-XGAMES01XG030100",
+      "relationships": {
+        "children": {
+          "data": []
+        },
+        "legacy-skus": {
+          "data": [
+            {
+              "id": "HP1060-CUSA05138_00-XGAMES01XG030100-H001",
+              "type": "legacy-sku"
+            }
+          ]
+        }
+      },
+      "type": "game"
+    },
+    {
+      "attributes": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "NT$481",
+        "eligibilities": [],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 3,
+            "id": "HP1060-CUSA02416_00-XGAMES1100010100",
+            "license_type": 0,
+            "metadata": null,
+            "name": "Ender of Fire",
+            "packageType": "PS4GD",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 2440232960
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "HP1060-CUSA02416_00-XGAMES1100010100-H003",
+        "is_original": false,
+        "name": "英文版",
+        "platforms": [
+          0,
+          10,
+          13
+        ],
+        "price": 48100,
+        "rewards": [
+          {
+            "bonus_discount": 80,
+            "bonus_display_price": "NT$95",
+            "bonus_entitlement_id": "IP9103-NPIA90007_00-PLUS00",
+            "bonus_price": 9500,
+            "campaigns": [
+              {
+                "end_date": "2018-09-24T15:59:00Z",
+                "id": "CAMP-SCEH-00152065",
+                "start_date": "2018-09-11T03:00:00Z"
+              }
+            ],
+            "discount": 70,
+            "display_price": "NT$144",
+            "end_date": "2018-09-24T15:59:00Z",
+            "id": "CAMP-RWD-SCEH-02748609",
+            "isPlus": false,
+            "price": 14400,
+            "reward_source_type_id": 2,
+            "reward_type": 2,
+            "start_date": "2018-09-11T03:00:00Z"
+          }
+        ],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "id": "HP1060-CUSA02416_00-XGAMES1100010100-H003",
+      "relationships": {
+        "children": {
+          "data": []
+        },
+        "legacy-skus": {
+          "data": []
+        }
+      },
+      "type": "legacy-sku"
+    },
+    {
+      "attributes": {
+        "badge-info": {
+          "non-plus-user": {
+            "discount-percentage": 70,
+            "is-plus": false,
+            "type": "save-percentage"
+          },
+          "plus-user": {
+            "discount-percentage": 80,
+            "is-plus": true,
+            "type": "save-percentage"
+          }
+        },
+        "cero-z-status": {
+          "is-allowed-in-cart": false,
+          "is-on": false
+        },
+        "content-rating": {
+          "content-descriptors": [
+            {
+              "description": "Violence",
+              "name": "暴力",
+              "url": null
+            }
+          ],
+          "contentInteractiveElement": [],
+          "rating-system": "CGSRR",
+          "url": "https://cdn-a.sonyentertainmentnetwork.com/grc/images/ratings/hd/cgsrr/Rating15.png"
+        },
+        "content-type": "1",
+        "default-sku-id": "HP1060-CUSA02416_00-XGAMES1100010100-H003",
+        "dob-required": false,
+        "file-size": {
+          "unit": "GB",
+          "value": 2.44
+        },
+        "game-content-type": "PSN 遊戲",
+        "genres": [
+          "動作"
+        ],
+        "is-igc-upsell": false,
+        "is-multiplayer-upsell": false,
+        "kamaji-relationship": "extras",
+        "legal-text": "所購買的內容或服務均不可退款或轉讓，亦不可用以贖回現金或記賬。",
+        "long-description": "在森林戰爭之後，一場在野獸部落和人類-精靈聯盟之間的當地戰爭爆發了。<br>\r唯一能真正終結這場被詛咒的戰爭的方法，就是打敗野獸部落的長老和被稱為“那個”的遠古生物。<br>\r<br>\r- 橫版幻想格鬥<br>\r- 1~3名玩家：單機多人遊戲<br>\r- 3名英雄：騎士、弓箭手、法師，各有固有技能<br>\r- 出現40種以上怪獸的6個戰爭關卡<br>\r<br>\r<b>Copyright：</b><br>\rCopyright 2015. XINESS Co., Ltd. All right reserved.<br>\r<br>\r購買或使用本內容需遵守SEN使用條款及用戶合約。\r",
+        "macross-brain-context": "game",
+        "media-list": {
+          "preview": [],
+          "promo": {
+            "images": [
+              {
+                "url": "https://nsx.np.dl.playstation.net/nsx/material/5/534fc2931336137b87d2fa8c260e13a428284890-1093990.jpg"
+              },
+              {
+                "url": "https://nsx.np.dl.playstation.net/nsx/material/9/94edbe87ad5958c156c0dc51f4fa562fa4ca3e2e-1093989.jpg"
+              },
+              {
+                "url": "https://nsx.np.dl.playstation.net/nsx/material/3/3d1a2d7a1bc76ae2ec03d9945033f8c225ddecf3-1093988.jpg"
+              }
+            ],
+            "videos": []
+          },
+          "screenshots": []
+        },
+        "name": "火焰終結者",
+        "nsx-confirm-message": "",
+        "parent": null,
+        "platforms": [
+          "PS4"
+        ],
+        "plus-reward-description": null,
+        "primary-classification": "DOWNLOADABLE_GAME",
+        "provider-name": "XINESS Co., Ltd.",
+        "ps-camera-compatibility": "incompatible",
+        "ps-move-compatibility": "incompatible",
+        "ps-vr-compatibility": "incompatible",
+        "release-date": "2015-07-24T01:00:00Z",
+        "secondary-classification": "GAME",
+        "skus": [
+          {
+            "entitlements": [
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              }
+            ],
+            "id": "HP1060-CUSA02416_00-XGAMES1100010100-H003",
+            "is-preorder": false,
+            "multibuy": null,
+            "name": "英文版",
+            "playability-date": "",
+            "plus-reward-description": null,
+            "prices": {
+              "non-plus-user": {
+                "actual-price": {
+                  "display": "NT$144",
+                  "value": 14400
+                },
+                "availability": {
+                  "end-date": "2018-09-24T15:59:00Z",
+                  "start-date": "2018-09-11T03:00:00Z"
+                },
+                "discount-percentage": 70,
+                "is-plus": false,
+                "strikethrough-price": {
+                  "display": "NT$481",
+                  "value": 48100
+                },
+                "upsell-price": {
+                  "display": "NT$95",
+                  "value": 9500
+                }
+              },
+              "plus-user": {
+                "actual-price": {
+                  "display": "NT$95",
+                  "value": 9500
+                },
+                "availability": {
+                  "end-date": "2018-09-24T15:59:00Z",
+                  "start-date": "2018-09-11T03:00:00Z"
+                },
+                "discount-percentage": 80,
+                "is-plus": true,
+                "strikethrough-price": {
+                  "display": "NT$481",
+                  "value": 48100
+                },
+                "upsell-price": null
+              }
+            }
+          }
+        ],
+        "star-rating": {
+          "score": 3.24,
+          "total": 50
+        },
+        "subtitle-language-codes": [],
+        "thumbnail-url-base": "https://store.playstation.com/store/api/chihiro/00_09_000/container/TW/ch/19/HP1060-CUSA02416_00-XGAMES1100010100/1536828503000/image",
+        "top-category": "downloadable_game",
+        "upsell-info": {
+          "discount-percentage-difference": 10,
+          "display-price": "NT$95",
+          "is-free": false,
+          "type": "save-extra-percentage"
+        },
+        "voice-language-codes": []
+      },
+      "id": "HP1060-CUSA02416_00-XGAMES1100010100",
+      "relationships": {
+        "children": {
+          "data": []
+        },
+        "legacy-skus": {
+          "data": [
+            {
+              "id": "HP1060-CUSA02416_00-XGAMES1100010100-H003",
+              "type": "legacy-sku"
+            }
+          ]
+        }
+      },
+      "type": "game"
+    },
+    {
+      "attributes": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "NT$489",
+        "eligibilities": [],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 3,
+            "id": "HP1060-CUSA06817_00-XGAMES01XG040100",
+            "license_type": 0,
+            "metadata": null,
+            "name": "Plutobi : The Dwarf Planet Tales",
+            "packageType": "PS4GD",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 414580736
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "HP1060-CUSA06817_00-XGAMES01XG040100-H001",
+        "is_original": false,
+        "name": "英文版",
+        "platforms": [
+          0,
+          10,
+          13
+        ],
+        "price": 48900,
+        "rewards": [
+          {
+            "bonus_discount": 80,
+            "bonus_display_price": "NT$97",
+            "bonus_entitlement_id": "IP9103-NPIA90007_00-PLUS00",
+            "bonus_price": 9700,
+            "campaigns": [
+              {
+                "end_date": "2018-09-24T15:59:00Z",
+                "id": "CAMP-SCEH-00152065",
+                "start_date": "2018-09-11T03:00:00Z"
+              }
+            ],
+            "discount": 70,
+            "display_price": "NT$146",
+            "end_date": "2018-09-24T15:59:00Z",
+            "id": "CAMP-RWD-SCEH-02748609",
+            "isPlus": false,
+            "price": 14600,
+            "reward_source_type_id": 2,
+            "reward_type": 2,
+            "start_date": "2018-09-11T03:00:00Z"
+          }
+        ],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "id": "HP1060-CUSA06817_00-XGAMES01XG040100-H001",
+      "relationships": {
+        "children": {
+          "data": []
+        },
+        "legacy-skus": {
+          "data": []
+        }
+      },
+      "type": "legacy-sku"
+    },
+    {
+      "attributes": {
+        "badge-info": {
+          "non-plus-user": {
+            "discount-percentage": 70,
+            "is-plus": false,
+            "type": "save-percentage"
+          },
+          "plus-user": {
+            "discount-percentage": 80,
+            "is-plus": true,
+            "type": "save-percentage"
+          }
+        },
+        "cero-z-status": {
+          "is-allowed-in-cart": false,
+          "is-on": false
+        },
+        "content-rating": {
+          "content-descriptors": [],
+          "contentInteractiveElement": [],
+          "rating-system": "CGSRR",
+          "url": "https://cdn-a.sonyentertainmentnetwork.com/grc/images/ratings/hd/cgsrr/RatingAll.png"
+        },
+        "content-type": "1",
+        "default-sku-id": "HP1060-CUSA06817_00-XGAMES01XG040100-H001",
+        "dob-required": false,
+        "file-size": {
+          "unit": "MB",
+          "value": 414.58
+        },
+        "game-content-type": "PSN 遊戲",
+        "genres": [
+          "動作"
+        ],
+        "is-igc-upsell": false,
+        "is-multiplayer-upsell": false,
+        "kamaji-relationship": "extras",
+        "legal-text": "所購買的內容或服務均不可退款或轉讓，亦不可用以贖回現金或記賬。",
+        "long-description": "冥王星于2006年被踢出行星列表名單，成為一個矮行星，因為他是如此之小和虛弱。所以他決定向太陽系中的其他行星表現自己的力量。<br>吸收許多小行星並變得更強。還擊敗了60行星，月亮和巨型小行星。<br><br><b>Copyright：</b><br>Copyright 2017. XINESS Co., Ltd. All right reserved.<br><br>購買或使用本內容需遵守SEN使用條款及用戶合約。",
+        "macross-brain-context": "game",
+        "media-list": {
+          "preview": [
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/HP1060/CUSA06817_00/FREE_CONTENTfm3kGG1fpEObIaIG1RwS/1.mp4"
+            }
+          ],
+          "promo": {
+            "images": [],
+            "videos": []
+          },
+          "screenshots": [
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/HP1060/CUSA06817_00/FREE_CONTENTlOyuxz8csiqFnNdhE5aq/1.jpg"
+            },
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/HP1060/CUSA06817_00/FREE_CONTENT2W8komsNUYKTKCyE7tOx/2.jpg"
+            },
+            {
+              "url": "https://apollo2.dl.playstation.net/cdn/HP1060/CUSA06817_00/FREE_CONTENT9QJ12YDHIsJCldxr4svN/3.jpg"
+            }
+          ]
+        },
+        "name": "冥王星: 矮行星的故事",
+        "nsx-confirm-message": "",
+        "parent": null,
+        "platforms": [
+          "PS4"
+        ],
+        "plus-reward-description": null,
+        "primary-classification": "DOWNLOADABLE_GAME",
+        "provider-name": "XINESS Co., Ltd.",
+        "ps-camera-compatibility": "incompatible",
+        "ps-move-compatibility": "incompatible",
+        "ps-vr-compatibility": "incompatible",
+        "release-date": "2017-04-19T01:00:00Z",
+        "secondary-classification": "GAME",
+        "skus": [
+          {
+            "entitlements": [
+              {
+                "duration": 0,
+                "exp-after-first-use": 0
+              }
+            ],
+            "id": "HP1060-CUSA06817_00-XGAMES01XG040100-H001",
+            "is-preorder": false,
+            "multibuy": null,
+            "name": "英文版",
+            "playability-date": "",
+            "plus-reward-description": null,
+            "prices": {
+              "non-plus-user": {
+                "actual-price": {
+                  "display": "NT$146",
+                  "value": 14600
+                },
+                "availability": {
+                  "end-date": "2018-09-24T15:59:00Z",
+                  "start-date": "2018-09-11T03:00:00Z"
+                },
+                "discount-percentage": 70,
+                "is-plus": false,
+                "strikethrough-price": {
+                  "display": "NT$489",
+                  "value": 48900
+                },
+                "upsell-price": {
+                  "display": "NT$97",
+                  "value": 9700
+                }
+              },
+              "plus-user": {
+                "actual-price": {
+                  "display": "NT$97",
+                  "value": 9700
+                },
+                "availability": {
+                  "end-date": "2018-09-24T15:59:00Z",
+                  "start-date": "2018-09-11T03:00:00Z"
+                },
+                "discount-percentage": 80,
+                "is-plus": true,
+                "strikethrough-price": {
+                  "display": "NT$489",
+                  "value": 48900
+                },
+                "upsell-price": null
+              }
+            }
+          }
+        ],
+        "star-rating": {
+          "score": 3.67,
+          "total": 3
+        },
+        "subtitle-language-codes": [],
+        "thumbnail-url-base": "https://store.playstation.com/store/api/chihiro/00_09_000/container/TW/ch/19/HP1060-CUSA06817_00-XGAMES01XG040100/1536828415000/image",
+        "top-category": "downloadable_game",
+        "upsell-info": {
+          "discount-percentage-difference": 10,
+          "display-price": "NT$97",
+          "is-free": false,
+          "type": "save-extra-percentage"
+        },
+        "voice-language-codes": []
+      },
+      "id": "HP1060-CUSA06817_00-XGAMES01XG040100",
+      "relationships": {
+        "children": {
+          "data": []
+        },
+        "legacy-skus": {
+          "data": [
+            {
+              "id": "HP1060-CUSA06817_00-XGAMES01XG040100-H001",
+              "type": "legacy-sku"
+            }
+          ]
+        }
+      },
+      "type": "game"
+    },
+    {
+      "attributes": {
+        "content-rating": {
+          "content-descriptors": [],
+          "contentInteractiveElement": [],
+          "rating-system": "CGSRR",
+          "url": "https://cdn-a.sonyentertainmentnetwork.com/grc/images/ratings/hd/cgsrr/Rating15.png"
+        },
+        "content-type": "1",
+        "default-sku-id": "",
+        "dob-required": false,
+        "file-size": {
+          "unit": "",
+          "value": null
+        },
+        "game-content-type": "",
+        "genres": [],
+        "is-igc-upsell": false,
+        "is-multiplayer-upsell": false,
+        "kamaji-relationship": "extras",
+        "legal-text": "",
+        "long-description": "<b><font color=\"orange\">※某些套裝包會包含本產品。同時，本產品所包含的某些內容也能夠單獨購買。請勿重複購買。</font></b><br><br>用超值折扣價一次買齊三套下載附加包來提升您的階級*。每套主題內容包都將增強遊戲核心體驗：<br><br>•「混亂之子」帶來了更加戲劇化的叛逆主題士兵自訂選項。<br><br>•「外星獵手」中XCOM士兵將組建一支獵殺外星人的精英小隊對抗全新的敵人-外星「裁決者」。<br><br>•「沈的最後禮物」講述了首席工程師莉莉·沈和您的小隊搜尋她已故父親的秘密研究，最後獲得全新的獨特強力兵種。<br><br>需要獨立販售的《XCOM 2》遊戲本體。<br><br>*比起各自單獨購買更為節省。加強包內的附加包也會獨立販售。如果您購買了加強包，請不要再購買獨立的附加包，因為您還是會被收取費用。<br> <br><b>若要使用本追加內容，需先購買個別發售的製品版遊戲光碟或先從PlayStation®Store購買遊戲的製品版及完成最新的網上更新。</b><br><b>本追加內容、資料或軟件僅與SIE或其他正式代理商發行的亞洲版遊戲軟件（行貨）相容。不保證其他地區發售的遊戲軟件與此追加內容的相容性。</b><br><br><b>Copyright：</b><br>©1994-2016 Take-Two Interactive Software, Inc. Take-Two Interactive Software, Inc., 2K, Firaxis Games, XCOM, XCOM2, and their respective logos are trademarks of Take-Two Interactive Software, Inc. Unreal® Engine, Copyright 1998-2015, Epic Games, Inc. All rights reserved. Unreal® is a registered trademark of Epic Games, Inc. Uses Bink Video. Copyright © 1997 – 2015 by RAD Game Tools, Inc. This software product includes Autodesk® Scaleform® software, © 2015 Autodesk, Inc. All Rights Reserved. Portions hereof © 2002-2015 by NVIDIA® Corporation. All rights reserved. Facial animations generated with FaceFX. © 2002-2015, OC3 Entertainment Inc. and its licensors. All rights reserved. All other marks are property of their respective owners.“PlayStation” and the \"PS\" Family logo are registered trademarks. \"PS4\" is a trademark of Sony Interactive Entertainment Inc.<br><br>購買或使用本內容需遵守SEN使用條款及用戶合約。<br><br> ",
+        "macross-brain-context": "game",
+        "media-list": {
+          "preview": [],
+          "promo": {
+            "images": [],
+            "videos": []
+          },
+          "screenshots": []
+        },
+        "name": "XCOM 2 加強包",
+        "nsx-confirm-message": "",
+        "parent": null,
+        "platforms": [],
+        "provider-name": "Take2 International Asia",
+        "ps-camera-compatibility": "incompatible",
+        "ps-move-compatibility": "incompatible",
+        "ps-vr-compatibility": "incompatible",
+        "release-date": "2016-09-30T00:00:00Z",
+        "star-rating": {
+          "score": 4.81,
+          "total": 151
+        },
+        "subtitle-language-codes": [],
+        "thumbnail-url-base": "https://store.playstation.com/store/api/chihiro/00_09_000/container/TW/ch/19/UP1001-CUSA04552_00-0000000000000009/1536828436000/image",
+        "top-category": "game_content",
+        "voice-language-codes": []
+      },
+      "id": "UP1001-CUSA04552_00-0000000000000009",
+      "relationships": {
+        "children": {
+          "data": []
+        },
+        "legacy-skus": {
+          "data": []
+        }
+      },
+      "type": "game-related"
+    }
+  ]
+}
