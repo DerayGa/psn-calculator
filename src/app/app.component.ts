@@ -98,7 +98,7 @@ export class AppComponent {
                 return `${game.price} : ${game.name}`;
               }
 
-              return `${priceMatchGames[0].price}: ${priceMatchGames.map((game) => game.name).join(' /\r\n     ')}`;
+              return `${priceMatchGames[0].price} : ${priceMatchGames.map((game) => game.name).join(' /\r\n      ')}`;
             });
             set.unshift(`第${index + 1}種組合`);
             set.push('');
