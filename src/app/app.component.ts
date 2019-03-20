@@ -36,17 +36,22 @@ export class AppComponent {
     'game_300.json',
     'game_350.json',
     'game_400.json',
+    'game_450.json',
+    'game_500.json',
+    'game_550.json',
+    'game_600.json',
+    'game_650.json',
     'dlc_50.json',
     'dlc_100.json',
+    'dlc_150.json',
+    'dlc_200.json',
+    'dlc_250.json',
   ];
   platformList: Array<string> = [
-    'PS4',
     '遊戲 GAME',
-    '追加內容 DLC',
-    'PS3',
-    'PS Vita',
+    '追加內容 DLC'
   ];
-  targetPrice                 = 2200;
+  targetPrice                 = 2500;
   totalPrice                  = 0;
   limit                       = 20;
   message                     = '';
@@ -55,7 +60,7 @@ export class AppComponent {
   constructor(
     private http: HttpClient
   ) {
-    this.toppings.setValue(['PS4', '遊戲 GAME']);
+    this.toppings.setValue(['遊戲 GAME']);
     this.isPlus = localStorage.getItem('is-plus') !== 'false';
 
     this.getGameList();
@@ -181,14 +186,11 @@ export class AppComponent {
   }
 
   platformSelectionChange() {
-    const platforms = this.toppings.value.filter((platform) => platform === 'PS4' || platform === 'PS3' || platform === 'PS Vita');
     const includeGame = this.toppings.value.find((type) => type === '遊戲 GAME') !== undefined;
     const includeDlc = this.toppings.value.find((type) => type === '追加內容 DLC') !== undefined;
 
     this.sortedData = this.games.filter((game) => (
       (game.type === 'game' && includeGame) || (game.type === 'dlc' && includeDlc)
-    )).filter((game) => (
-      platforms.indexOf(game.platform) >= 0
     )).slice();
   }
 
@@ -215,12 +217,12 @@ export class AppComponent {
       return;
     }
     const filename = this.jsonList.shift();
-    this.http.get(`./assets/${filename}`).subscribe((result: Array<any>) => {
+    this.http.get(`./assets/2019_spring/${filename}`).subscribe((result: Array<any>) => {
       const typeGame = filename.indexOf('game') === 0;
       const typeDlc  = filename.indexOf('dlc') === 0;
       result['included'].forEach((item) => {
         const attributes = item['attributes'];
-        if ((typeGame && item['type'] === 'game') || (typeDlc && item['type'] === 'game-related') && attributes['skus']) {
+        if (((typeGame && item['type'] === 'game') || (typeDlc && item['type'] === 'game-related')) && attributes['skus']) {
           const skus = attributes['skus'].pop();
           const name = `${attributes['name']}  (${skus['name']})`;
 
