@@ -212,7 +212,15 @@ export class AppComponent {
   }
 
   getGameList() {
+    const gameList = localStorage.getItem('2019_spring');
+    if (gameList !== undefined && gameList !== null) {
+      this.games = JSON.parse(gameList);
+      this.platformSelectionChange();
+      return;
+    }
+
     if (this.jsonList.length === 0) {
+      localStorage.setItem('2019_spring', JSON.stringify(this.games));
       this.platformSelectionChange();
       return;
     }

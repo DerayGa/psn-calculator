@@ -18,6 +18,14 @@ header img {
     margin-right: 15px;
 }
 
+tr:nth-child(even){
+    background-color: lightsteelblue;
+}
+
+tr:nth-child(odd){
+    background-color: whitesmoke;
+}
+
 mat-form-field,
 mat-slide-toggle,
 .mat-raised-button {
